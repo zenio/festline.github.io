@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title                   : "Ilya Kashnitsky"
-description             : "Personal website of Ilya Kashnitsky"
-author                  : ilya
+title                   : "mlcourse.ai"
+description             : "Open Machine Learning Course"
+author                  : yorko
 logo                    : logo-120x120.png
 teaser                  : teaser-blog.png
 locale                  : en
-url                     : https://ikashnitsky.github.io
+url                     : https://festline.github.io
 feed:
   path                  : atom.xml
 encoding                : UTF-8
@@ -33,15 +33,15 @@ gems:
 
 # Site owner
 owner:
-  name                  : "Ilya Kashnitsky"
-  web                   : https://ikashnitsky.github.io/me
-  email                 : "ilya.kashnitsky@gmail.com"
-  twitter               : "ikashnitsky"
-  github                : "ikashnitsky"
-  facebook              : "ikashnitsky"
-  bio                   : "Ilya Kashnitsky is a PhD candidate in demography at University of Groningen and Netherlands Interdisciplinary Demographic Institute, and a Junior Research Fellow at the National Research University Higher School of Economics"
+  name                  : "Yury Kashnitsky"
+  web                   : https://yorko.github.io
+  email                 : "yury.kashnitsky@gmail.com"
+  twitter               : "ykashnitsky"
+  github                : "yorko"
+  facebook              : "festline"
+  bio                   : "Yury Kashnitsky is a Data Scientist at Mail.Ru Group"
   avatar                : bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname      : https-ikashnitsky-github-io
+  disqus-shortname      : https-festline-github-io
 
 include: ["_pages", ".htaccess"]
 exclude:
