@@ -1,10 +1,10 @@
 # Authors
 ilya:
-  name                  : "Ilya Kashnitsky"
+  name                  : "Yury Kashnitsky"
   web                   : https://ikashnitsky.github.io
-  email                 : "ilya.kashnitsky@gmail.com"
-  twitter               : "ikashnitsky"
-  github                : "ikashnitsky"
-  facebook              : "ikashnitsky"
-  bio                   : "Ilya Kashnitsky is a PhD candidate in demography at University of Groningen and Netherlands Interdisciplinary Demographic Institute."
+  email                 : "yury.kashnitsky@gmail.com"
+  twitter               : "ykashnitsky"
+  github                : "yorko"
+  facebook              : "festline"
+  bio                   : "Yury Kashnitsky is a Data Scientist at Mail.Ru Group."
   avatar                : bio-photo.jpg # 160x160 px image for author byline

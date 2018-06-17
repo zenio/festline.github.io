@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "demographeR's notes"
+title: "Open Machine Learning Course"
 image:
   teaser: teaser-blog.png
 ---
