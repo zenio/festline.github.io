@@ -1,0 +1,69 @@
+# Site wide configuration
+
+title                   : "mlcourse.ai"
+description             : "Open Machine Learning Course"
+author                  : yorko
+logo                    : logo-120x120.png
+teaser                  : teaser-blog.png
+locale                  : en
+url                     : https://festline.github.io
+feed:
+  path                  : atom.xml
+encoding                : UTF-8
+google_analytics        : UA-93349619-1
+comments                : true
+
+# Jekyll configuration
+
+sass:
+  sass_dir              : _sass
+  style                 : compressed
+permalink               : /:categories/:year/:title/
+markdown                : kramdown
+highlighter             : rouge
+kramdown:
+  toc_levels            : 1..2
+  mathjax               : true
+  input                 : GFM
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name                  : "Yury Kashnitsky"
+  web                   : https://yorko.github.io
+  email                 : "yury.kashnitsky@gmail.com"
+  twitter               : "ykashnitsky"
+  github                : "yorko"
+  facebook              : "festline"
+  bio                   : "Yury Kashnitsky is a Data Scientist at Mail.Ru Group"
+  avatar                : bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname      : https-festline-github-io
+
+include: ["_pages", ".htaccess"]
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

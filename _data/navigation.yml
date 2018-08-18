@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title         : "BLOG"
+  url           : /
+  excerpt       : "DemographeR's notes"
+  image         : teaser-blog.png
+
+- title         : "ME"
+  url           : /me
+  excerpt       : "About me"
+  image         : teaser-me.png
+
+- title         : "CONF"
+  url           : /conf
+  excerpt       : "Talks at conferences and seminars"
+  image         : teaser-conf.png
+  
+- title         : "CONTACTS"
+  url           : /contacts
+  excerpt       : "My contacts and profiles"
+  image         :  teaser-contacts.png 
+  

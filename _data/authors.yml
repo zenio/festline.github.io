@@ -1,0 +1,10 @@
+# Authors
+yorko:
+  name                  : "Yury Kashnitsky"
+  web                   : https://yorko.github.io
+  email                 : "yury.kashnitsky@gmail.com"
+  twitter               : "ykashnitsky"
+  github                : "yorko"
+  facebook              : "festline"
+  bio                   : "Yury Kashnitsky is a Data Scientist at Mail.Ru Group."
+  avatar                : bio-photo.jpg # 160x160 px image for author byline
