@@ -12,9 +12,7 @@ layout: default
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
 		{% endif %}
-                {% if page.use_math %}
-                        {% include mathjax_support.html %}
-                {% endif %}
+                {% include mathjax.html %}
 		{% include breadcrumbs.html %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
