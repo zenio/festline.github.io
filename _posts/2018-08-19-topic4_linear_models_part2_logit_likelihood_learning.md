@@ -102,7 +102,7 @@ Now let's see how an optimization problem for logistic regression is obtained fr
 $$\Large p_+(\textbf{x}_\text{i}) = P\left(y_i = 1 \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(\textbf{w}^T\textbf{x}_\text{i})$$
 
 Тhen, for the class "-", the corresponding expression is as follows:
-$$\Large p_{-}{(\textbf{x}_\text{i})}  = P\left(y_i = -1 \mid \textbf{x}_\text{i}, \textbf{w}\right)  = 1 - \sigma(\textbf{w}^T\textbf{x}_\text{i}) = \sigma(-\textbf{w}^T\textbf{x}_\text{i}) $$
+$$\Large p\_-{(\textbf{x}\_\text{i})}  = P\left(y_i = -1 \mid \textbf{x}\_\text{i}, \textbf{w}\right)  = 1 - \sigma(\textbf{w}^T\textbf{x}\_\text{i}) = \sigma(-\textbf{w}^T\textbf{x}\_\text{i}) $$
 
 Both of these expressions can be cleverly combined into one (watch carefully, maybe you are being tricked):
 
