@@ -110,7 +110,7 @@ Both of these expressions can be cleverly combined into one (watch carefully, ma
 $$\Large P\left(y = y_i \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(y_i\textbf{w}^T\textbf{x}_\text{i})$$
 <br>
 
-The expression \\(M(\textbf{x}_\text{i}) = y_i\textbf{w}^T\textbf{x}_\text{i}\\)
+The expression $$M(\textbf{x}_\text{i}) = y_i\textbf{w}^T\textbf{x}_\text{i}$$
 is known as the margin of classification on the object $\textbf{x}_\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}_\text{i}$; if it is negative, then the object $\textbf{x}_\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
 
 To understand exactly why we have come to such a conclusion, let us turn to the geometrical interpretation of the linear classifier.
