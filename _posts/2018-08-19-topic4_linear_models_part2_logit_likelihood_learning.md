@@ -32,7 +32,7 @@ where
 
 ### Logistic Regression as a Linear Classifier
 
-Logistic regression is a special case of the linear classifier, but it has an added benefit of predicting a probability $$p\sb+$$ of referring example $$\textbf{x}\sb{\text{i}}$$ to the class "+":
+Logistic regression is a special case of the linear classifier, but it has an added benefit of predicting a probability $$p\sb{+}$$ of referring example $$\textbf{x}\sb{\text{i}}$$ to the class "+":
 $$\Large p\sb+ = P\left(y\sbi = 1 \mid \textbf{x}\sb\text{i}, \textbf{w}\right) $$
 
 
