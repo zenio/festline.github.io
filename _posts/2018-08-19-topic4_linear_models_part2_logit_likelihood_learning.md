@@ -8,7 +8,7 @@ image:
 ---
 $$\newcommand{\sb}{_}
 \newcommand{\testalpha}{\alpha}
-\newcommand{\sb}{_}$$
+\newcommand{\sp}{^}$$
 
 <img align="center" src="https://habrastorage.org/files/10c/15f/f3d/10c15ff3dcb14abdbabdac53fed6d825.jpg"/>
 <br>
@@ -76,7 +76,7 @@ plt.title('Sigmoid function');
 ```
 
 
-<img align='center' src="https://festline.github.io/sigmoid.png"/><br>
+<img align='center' src="https://festline.github.io/images/sigmoid.png" /><br>
 
 
 Let's denote the probability of an event $X$ as $P(X)$. Then the odds ratio $OR(X)$ is determined by $\frac{P(X)}{1-P(X)}$, which is the ratio of the probabilities of whether or not an event will happen. It is obvious that the probability and odds ratio contain the same information, but, while $P(X)$ ranges from 0 to 1, $OR(X)$ is in the range of 0 to $\infty$.
@@ -116,8 +116,8 @@ Both of these expressions can be cleverly combined into one (watch carefully, ma
 $$\Large P\left(y = y_i \mid \textbf{x}\sb{text{i}}, \textbf{w}\right) = \sigma(y\sb{i}\textbf{w}^T\textbf{x}\sb\text{i})$$
 <br>
 
-The expression $$M(\textbf{x}\sb\text{i}) = y_i\textbf{w}^T\textbf{x}\sb\text{i}$$
-is known as the margin of classification on the object $\textbf{x}\sb\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}_\text{i}$; if it is negative, then the object $\textbf{x}_\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
+The expression $$M(\textbf{x}\sb\text{i}) = y_i\textbf{w}\sp{T}\textbf{x}\sb\text{i}$$
+is known as the margin of classification on the object $\textbf{x}\sb\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}\sb\text{i}$; if it is negative, then the object $\textbf{x}\sb\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
 
 To understand exactly why we have come to such a conclusion, let us turn to the geometrical interpretation of the linear classifier.
 
@@ -126,7 +126,7 @@ First, I would recommend looking at a classic, introductory problem in linear al
 Answer:
 $$\rho(\textbf{x}\sb{A}, \textbf{w}^\text{T}\textbf{x} = 0) = \frac{\textbf{w}^\text{T}\textbf{x}\sb{A}}{||\textbf{w}||}$$
 
-<img src = '../../img/simple_linal_task.png' width=60%>
+<img align='center' src='https://festline.github.io/images/simple_linal_task.png' width=60%>
 
 When we get to the answer, we will understand that the greater the absolute value of the expression $\textbf{w}^\text{T}\textbf{x}_\text{i}$, the farther the point $\textbf{x}_\text{i}$ is from the plane $\textbf{w}^\text{T}\textbf{x} = 0.$
 
