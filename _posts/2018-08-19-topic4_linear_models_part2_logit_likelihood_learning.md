@@ -16,7 +16,7 @@ image:
 
 The basic idea behind the linear classifier is that the two values of the target class can be separated by a hyperplane in the feature space. If this can be done without error, the training set is called *linearly separable*.
 
-![png](../images/logit.png)
+![png](https://festline.github.io/images/logit.png)
 
 We have already seen linear regression and Ordinary Least Squares (OLS). Let's consider a binary classification problem, and denote target classes to be "+1" (positive examples) and "-1" (negative examples). One of the simplest linear classifiers can be defined using regression as follows:
 
@@ -32,11 +32,11 @@ where
 
 ### Logistic Regression as a Linear Classifier
 
-Logistic regression is a special case of the linear classifier, but it has an added benefit of predicting a probability $p_{+}$ of referring example $\textbf{x}_{\text{i}}$ to the class "+":
-$$\Large p_+ = P\left(y_i = 1 \mid \textbf{x}_\text{i}, \textbf{w}\right) $$
+Logistic regression is a special case of the linear classifier, but it has an added benefit of predicting a probability $$p\sb+$$ of referring example $$\textbf{x}\sb{\text{i}}$$ to the class "+":
+$$\Large p\sb+ = P\left(y\sbi = 1 \mid \textbf{x}\sb\text{i}, \textbf{w}\right) $$
 
 
-_Being able to predict not just a response ( "+1" or "-1") but the *probability* of assignment to class "+1" is a very important requirement in many business problems e.g. credit scoring where logistic regression is traditionally used. Customers who have applied for a loan are ranked based on this predicted probability (in descending order) to obtain a scoreboard that rates customers from bad to good. Below is an example of such a toy scoreboard.
+Being able to predict not just a response ( "+1" or "-1") but the *probability* of assignment to class "+1" is a very important requirement in many business problems e.g. credit scoring where logistic regression is traditionally used. Customers who have applied for a loan are ranked based on this predicted probability (in descending order) to obtain a scoreboard that rates customers from bad to good. Below is an example of such a toy scoreboard.
 
 ![png](../images/toy_scorecard_eng.png)
 
