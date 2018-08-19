@@ -12,3 +12,4 @@ image:
 ---
 \def\\sb{_}
 \newcommand{\sb}{_}
+\newcommand{\testalpha}{\alpha}
