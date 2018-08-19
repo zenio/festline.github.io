@@ -11,3 +11,4 @@ image:
   thumb:
 ---
 \def\\sb{_}
+\newcommand{\sb}{_}
