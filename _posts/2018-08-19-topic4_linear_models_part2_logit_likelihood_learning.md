@@ -20,7 +20,8 @@ $$\newcommand{\sb}{_}
 
 The basic idea behind the linear classifier is that the two values of the target class can be separated by a hyperplane in the feature space. If this can be done without error, the training set is called *linearly separable*.
 
-![png](https://festline.github.io/images/logit.png)
+<img align='center' src="https://festline.github.io/images/logit.png"/>
+<br>
 
 We have already seen linear regression and Ordinary Least Squares (OLS). Let's consider a binary classification problem, and denote target classes to be "+1" (positive examples) and "-1" (negative examples). One of the simplest linear classifiers can be defined using regression as follows:
 
@@ -28,7 +29,7 @@ $$\Large a(\textbf{x}) = \text{sign}(\textbf{w}^\text{T}\textbf x),$$
 
 where
  - $\textbf{x}$ –  is a feature vector (along with identity);
- - $\textbf{w}$ – is a vector of weights in the linear model (with bias $w_0$);
+ - $\textbf{w}$ – is a vector of weights in the linear model (with bias $w\sb{0}$);
  - $\text{sign}(\bullet)$ – is the signum function that returns the sign of its argument;
  - $a(\textbf{x})$ – is a classifier response for $\textbf{x}$.
 
@@ -42,13 +43,14 @@ $$\Large p\sb+ = P\left(y\sbi = 1 \mid \textbf{x}\sb\text{i}, \textbf{w}\right) 
 
 Being able to predict not just a response ( "+1" or "-1") but the *probability* of assignment to class "+1" is a very important requirement in many business problems e.g. credit scoring where logistic regression is traditionally used. Customers who have applied for a loan are ranked based on this predicted probability (in descending order) to obtain a scoreboard that rates customers from bad to good. Below is an example of such a toy scoreboard.
 
-![png](../images/toy_scorecard_eng.png)
+<img align='center' src="https://festline.github.io/images/toy_scorecard_eng.png"/>
+<br>
 
-The bank chooses a threshold $p_*$ to predict the probability of loan default (in the picture it's $0.15$) and stops approving loans starting from that value. Moreover, it is possible to multiply this predicted probability by the outstanding amount to get the expectation of losses from the client, which can also constitute good business metrics (scoring experts may have more to add, but the main gist is this).
+The bank chooses a threshold $p\sb{\*}$ to predict the probability of loan default (in the picture it's $0.15$) and stops approving loans starting from that value. Moreover, it is possible to multiply this predicted probability by the outstanding amount to get the expectation of losses from the client, which can also constitute good business metrics (scoring experts may have more to add, but the main gist is this).
 
 
 
-_To predict the probability $p_+ \in [0,1]$, _we can start by constructing a linear prediction using OLS: $b(\textbf{x}) = \textbf{w}^\text{T} \textbf{x} \in \mathbb{R}$. But converting the resulting value to the probability within in the [0, 1] range requires some function $f: \mathbb{R} \rightarrow [0,1].$. Logistic regression uses a specific function for this: $\sigma(z) = \frac{1}{1 + \exp^{-z}}$. Now let's understand what the prerequisites are.
+To predict the probability $p\sb{+} \in [0,1]$, we can start by constructing a linear prediction using OLS: $b(\textbf{x}) = \textbf{w}^\text{T} \textbf{x} \in \mathbb{R}$. But converting the resulting value to the probability within in the [0, 1] range requires some function $f: \mathbb{R} \rightarrow [0,1].$. Logistic regression uses a specific function for this: $\sigma(z) = \frac{1}{1 + \exp^{-z}}$. Now let's understand what the prerequisites are.
 
 
 ```python
@@ -74,7 +76,7 @@ plt.title('Sigmoid function');
 ```
 
 
-![png](../img/sigmoid.png)
+<img align='center' src="https://festline.github.io/sigmoid.png"/><br>
 
 
 Let's denote the probability of an event $X$ as $P(X)$. Then the odds ratio $OR(X)$ is determined by $\frac{P(X)}{1-P(X)}$, which is the ratio of the probabilities of whether or not an event will happen. It is obvious that the probability and odds ratio contain the same information, but, while $P(X)$ ranges from 0 to 1, $OR(X)$ is in the range of 0 to $\infty$.
@@ -95,7 +97,7 @@ On the right side, you can see that we have the sigmoid function.
 
 So, logistic regression predicts the probability of assigning an example to the "+" class (assuming that we know the features and weights of the model) as a sigmoid transformation of a linear combination of the weight vector and the feature vector:
 
-$$\large p_+(\textbf{x}_\text{i}) = P\left(y_i = 1 \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(\textbf{w}^\text{T}\textbf{x}_\text{i}). $$
+$$\large p_+(\textbf{x}_\text{i}) = P\left(y\sb{i} = 1 \mid \textbf{x}\sb{\text{i}}, \textbf{w}\right) = \sigma(\textbf{w}^\text{T}\textbf{x}\sb{\text{i}}). $$
 
 Next, we will see how the model is trained. We will again rely on maximum likelihood estimation.
 
@@ -104,25 +106,25 @@ Next, we will see how the model is trained. We will again rely on maximum likeli
 Now let's see how an optimization problem for logistic regression is obtained from the MLE, namely, minimization of the *logistic* loss function. We have just seen that logistic regression models the probability of assigning an example to the class "+" as:
 
 
-$$\Large p_+(\textbf{x}_\text{i}) = P\left(y_i = 1 \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(\textbf{w}^T\textbf{x}_\text{i})$$
+$$\Large p\sb{+}(\textbf{x}\sb{\text{i}}) = P\left(y\sb{i} = 1 \mid \textbf{x}\sb{\text{i}}, \textbf{w}\right) = \sigma(\textbf{w}^T\textbf{x}\sb{\text{i}})$$
 
 Тhen, for the class "-", the corresponding expression is as follows:
-$$\Large p\_-{(\textbf{x}\_\text{i})}  = P\left(y_i = -1 \mid \textbf{x}\_\text{i}, \textbf{w}\right)  = 1 - \sigma(\textbf{w}^T\textbf{x}\_\text{i}) = \sigma(-\textbf{w}^T\textbf{x}\_\text{i}) $$
+$$\Large p\sb{-}{(\textbf{x}\sb{\text{i}})}  = P\left(y\sb{i} = -1 \mid \textbf{x}\_\text{i}, \textbf{w}\right)  = 1 - \sigma(\textbf{w}^T\textbf{x}\sb{\text{i}}) = \sigma(-\textbf{w}^T\textbf{x}\sb{\text{i}}) $$
 
 Both of these expressions can be cleverly combined into one (watch carefully, maybe you are being tricked):
 
-$$\Large P\left(y = y_i \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(y_i\textbf{w}^T\textbf{x}_\text{i})$$
+$$\Large P\left(y = y_i \mid \textbf{x}\sb{text{i}}, \textbf{w}\right) = \sigma(y\sb{i}\textbf{w}^T\textbf{x}\sb\text{i})$$
 <br>
 
-The expression $$M(\textbf{x}_\text{i}) = y_i\textbf{w}^T\textbf{x}_\text{i}$$
-is known as the margin of classification on the object $\textbf{x}_\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}_\text{i}$; if it is negative, then the object $\textbf{x}_\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
+The expression $$M(\textbf{x}\sb\text{i}) = y_i\textbf{w}^T\textbf{x}\sb\text{i}$$
+is known as the margin of classification on the object $\textbf{x}\sb\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}_\text{i}$; if it is negative, then the object $\textbf{x}_\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
 
 To understand exactly why we have come to such a conclusion, let us turn to the geometrical interpretation of the linear classifier.
 
-First, I would recommend looking at a classic, introductory problem in linear algebra: find the distance from the point with a radius-vector $\textbf{x}_A$ to a plane defined by the equation $\textbf{w}^\text{T}\textbf{x} = 0.$
+First, I would recommend looking at a classic, introductory problem in linear algebra: find the distance from the point with a radius-vector $\textbf{x}\sb{A}$ to a plane defined by the equation $\textbf{w}^\text{T}\textbf{x} = 0.$
 
 Answer:
-$$\rho(\textbf{x}_A, \textbf{w}^\text{T}\textbf{x} = 0) = \frac{\textbf{w}^\text{T}\textbf{x}_A}{||\textbf{w}||}$$
+$$\rho(\textbf{x}\sb{A}, \textbf{w}^\text{T}\textbf{x} = 0) = \frac{\textbf{w}^\text{T}\textbf{x}\sb{A}}{||\textbf{w}||}$$
 
 <img src = '../../img/simple_linal_task.png' width=60%>
 
