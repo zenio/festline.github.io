@@ -1,7 +1,7 @@
 ---
 layout: article
 mathjax: true
-title: "Linear Classification and Regression"
+title: "Topic 4. Linear Classification and Regression"
 comments: true
 image:
   teaser: 180522-teaser.png
@@ -36,7 +36,8 @@ Logistic regression is a special case of the linear classifier, but it has an ad
 $$\Large p_+ = P\left(y_i = 1 \mid \textbf{x}_\text{i}, \textbf{w}\right) $$
 
 Being able to predict not just a response ( "+1" or "-1") but the *probability* of assignment to class "+1" is a very important requirement in many business problems e.g. credit scoring where logistic regression is traditionally used. Customers who have applied for a loan are ranked based on this predicted probability (in descending order) to obtain a scoreboard that rates customers from bad to good. Below is an example of such a toy scoreboard.
-    <img src='../../img/toy_scorecard_eng.png' width=60%>
+
+<img src='../img/toy_scorecard_eng.png' width=60%>
 
 The bank chooses a threshold $p_*$ to predict the probability of loan default (in the picture it's $0.15$) and stops approving loans starting from that value. Moreover, it is possible to multiply this predicted probability by the outstanding amount to get the expectation of losses from the client, which can also constitute good business metrics (scoring experts may have more to add, but the main gist is this).
 
@@ -68,7 +69,7 @@ plt.title('Sigmoid function');
 ```
 
 
-![png](output_9_0.png)
+![png](../img/sigmoid.png)
 
 
 Let's denote the probability of an event $X$ as $P(X)$. Then the odds ratio $OR(X)$ is determined by $\frac{P(X)}{1-P(X)}$, which is the ratio of the probabilities of whether or not an event will happen. It is obvious that the probability and odds ratio contain the same information, but, while $P(X)$ ranges from 0 to 1, $OR(X)$ is in the range of 0 to $\infty$.
@@ -101,13 +102,15 @@ Now let's see how an optimization problem for logistic regression is obtained fr
 $$\Large p_+(\textbf{x}_\text{i}) = P\left(y_i = 1 \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(\textbf{w}^T\textbf{x}_\text{i})$$
 
 Тhen, for the class "-", the corresponding expression is as follows:
-$$\Large p_-(\textbf{x}_\text{i})  = P\left(y_i = -1 \mid \textbf{x}_\text{i}, \textbf{w}\right)  = 1 - \sigma(\textbf{w}^T\textbf{x}_\text{i}) = \sigma(-\textbf{w}^T\textbf{x}_\text{i}) $$
+$$\Large p_{-}{(\textbf{x}_\text{i})}  = P\left(y_i = -1 \mid \textbf{x}_\text{i}, \textbf{w}\right)  = 1 - \sigma(\textbf{w}^T\textbf{x}_\text{i}) = \sigma(-\textbf{w}^T\textbf{x}_\text{i}) $$
 
 Both of these expressions can be cleverly combined into one (watch carefully, maybe you are being tricked):
 
 $$\Large P\left(y = y_i \mid \textbf{x}_\text{i}, \textbf{w}\right) = \sigma(y_i\textbf{w}^T\textbf{x}_\text{i})$$
+<br>
 
-The expression $M(\textbf{x}_\text{i}) = y_i\textbf{w}^T\textbf{x}_\text{i}$ is known as the margin of classification on the object $\textbf{x}_\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}_\text{i}$; if it is negative, then the object $\textbf{x}_\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
+The expression $M(\textbf{x}_\text{i}) = y_i\textbf{w}^T\textbf{x}_\text{i}$ 
+is known as the margin of classification on the object $\textbf{x}_\text{i}$ (not to be confused with a gap, which is also called margin, in the SVM context). If it is non-negative, the model is correct in choosing the class of the object $\textbf{x}_\text{i}$; if it is negative, then the object $\textbf{x}_\text{i}$ is misclassified. Note that the margin is defined for objects in the training set only where real target class labels $y_i$ are known.
 
 To understand exactly why we have come to such a conclusion, let us turn to the geometrical interpretation of the linear classifier.
 
