@@ -6,6 +6,10 @@ comments: true
 image:
   teaser: 180522-teaser.png
 ---
+$$\newcommand{\sb}{_}
+\newcommand{\testalpha}{\alpha}
+\newcommand{\sb}{_}$$
+
 <img align="center" src="https://habrastorage.org/files/10c/15f/f3d/10c15ff3dcb14abdbabdac53fed6d825.jpg"/>
 <br>
 
