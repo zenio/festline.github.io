@@ -8,7 +8,8 @@ image:
 ---
 $$\newcommand{\sb}{_}
 \newcommand{\testalpha}{\alpha}
-\newcommand{\sp}{^}$$
+\newcommand{\sp}{^}
+\newcommand{\sb}{_}$$
 
 <img align="center" src="https://habrastorage.org/files/10c/15f/f3d/10c15ff3dcb14abdbabdac53fed6d825.jpg"/>
 <br>
@@ -126,7 +127,7 @@ First, I would recommend looking at a classic, introductory problem in linear al
 Answer:
 $$\rho(\textbf{x}\sb{A}, \textbf{w}^\text{T}\textbf{x} = 0) = \frac{\textbf{w}^\text{T}\textbf{x}\sb{A}}{||\textbf{w}||}$$
 
-<img align='center' src='https://festline.github.io/images/simple_linal_task.png' width=60%>
+<img align='center' src="https://festline.github.io/images/simple_linal_task.png" width=60% /><br>
 
 When we get to the answer, we will understand that the greater the absolute value of the expression $\textbf{w}^\text{T}\textbf{x}_\text{i}$, the farther the point $\textbf{x}_\text{i}$ is from the plane $\textbf{w}^\text{T}\textbf{x} = 0.$
 
