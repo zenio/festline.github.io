@@ -13,7 +13,7 @@ image:
 # Profiles
 [LinkedIN](https://www.linkedin.com/in/festline)   
 [GitHub](https://github.com/Yorko)   
-[Habr (ru)](http://habrahabr.ru/users/ikashnitsky/)   
+[Habr (ru)](http://habrahabr.ru/users/yorko/)   
  
 # Phone
 +31-6-3304-5528
