@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Open Machine Learning Course"
+title: "Open Machine Learning Course (not ready)"
 image:
   teaser: teaser-blog.png
 ---
