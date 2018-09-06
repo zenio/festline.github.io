@@ -4,6 +4,8 @@ permalink: /
 title: "Open Machine Learning Course (beta)"
 image:
   teaser: teaser-blog.png
+comments: false
+    
 ---
 
 <div class="tiles">

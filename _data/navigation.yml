@@ -10,7 +10,12 @@
   excerpt       : "Demo assignments"
   image         :  assignments-demo-teaser.png
 
-- title         : "CONTACTS"
+- title         : "Resources"
+  url           : /resources
+  excerpt       : "A list of all resources constituting the course"
+  image         :  resources-teaser.jpg
+
+- title         : "Contacts"
   url           : /contacts
   excerpt       : "Contacts and profiles"
   image         :  ods_logo.jpg 
