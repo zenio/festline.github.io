@@ -13,3 +13,5 @@ Here is the list of all resources constituting the course:
  - [Medium articles](https://medium.com/open-machine-learning-course). Main content in English, not necessary if you work with notebooks.
  - [GitHub](https://github.com/Yorko/mlcourse_open) repository. Preferable if you are used to work with git & GitHub.
  - [Habr.com](https://habr.com/company/ods/blog/322626/) articles. Main content in Russian.
+ - [Youtube](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl) channel. Lectures and interviews with cool DS-guys. Yet Russian-only.
+ - [VK group](https://vk.com/mlcourse). One more information mirror, Russian-only.
