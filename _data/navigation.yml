@@ -3,8 +3,13 @@
 - title         : "ARTICLES"
   url           : /
   excerpt       : "Main content"
-  image         : ods_logo.jpg
-  
+  image         : ods-stickers-teaser.jpg
+
+- title         : "Assignments"
+  url           : /assignments
+  excerpt       : "Demo assignments"
+  image         :  assignments-demo-teaser.png
+
 - title         : "CONTACTS"
   url           : /contacts
   excerpt       : "Contacts and profiles"
