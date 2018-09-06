@@ -18,7 +18,8 @@ comments                : true
 sass:
   sass_dir              : _sass
   style                 : compressed
-permalink               : /:categories/:year/:title/
+#permalink               : /:categories/:year/:title/
+permalink               :/:categories/:url
 markdown                : kramdown
 highlighter             : rouge
 kramdown:
@@ -39,7 +40,7 @@ owner:
   twitter               : "ykashnitsky"
   github                : "yorko"
   facebook              : "festline"
-  bio                   : "Yury Kashnitsky is a Data Scientist at Mail.Ru Group"
+  bio                   : "Yury Kashnitsky is a Data Scientist at KPN"
   avatar                : bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname      : https-festline-github-io
 
