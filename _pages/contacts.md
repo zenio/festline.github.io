@@ -7,18 +7,5 @@ image:
   teaser: teaser-contacts.png
 ---
 
-# Email
-**yury.kashnitsky@gmail.com**   
- 
-# Profiles
-[LinkedIN](https://www.linkedin.com/in/festline)   
-[GitHub](https://github.com/Yorko)   
-[Habr (ru)](http://habrahabr.ru/users/yorko/)   
- 
-# Phone
-+31-6-3304-5528
+[OpenDataScience](http://ods.ai) unites more than 15k Russian-speaking Data Scientists and is thus one of the biggest IT communities in the world. Among dozens of ODS projects is organizing DataFest, the biggest Russian-speaking DS conference for researchers and practitioners. ODS also has its own educational mission presented here with the Open Machine Learning Course mlcourse.ai.
 
-# Post address
-Cornelis Houtmanstraat 79 
-NL-2593 RE, The Hague 
-The Netherlands
