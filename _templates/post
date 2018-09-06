@@ -9,6 +9,7 @@ image:
   feature:
   teaser:
   thumb:
+url : {{ url }}
 ---
 \def\\sb{_}
 \newcommand{\sb}{_}
