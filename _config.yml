@@ -3,8 +3,8 @@
 title                   : "mlcourse.ai"
 description             : "Open Machine Learning Course"
 author                  : yorko
-logo                    : logo-120x120.png
-teaser                  : teaser-blog.png
+logo                    : ods_logo.png
+teaser                  : ods_logo.png
 locale                  : en
 url                     : https://festline.github.io
 feed:
