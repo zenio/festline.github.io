@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 permalink: /
 title: "Open Machine Learning Course (beta)"
 image:
