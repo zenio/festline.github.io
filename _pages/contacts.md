@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /contacts
-title: "CONTACTS"
+title: "Contacts"
 comments: false
 image:
   teaser: teaser-contacts.png
