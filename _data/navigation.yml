@@ -10,6 +10,11 @@
   excerpt       : "Demo assignments"
   image         :  assignments-demo-teaser.png
 
+- title         : "News"
+  url           : /news
+  excerpt       : "What's currently going on"
+  image         :  teaser-news.jpeg
+
 - title         : "Resources"
   url           : /resources
   excerpt       : "A list of all resources constituting the course"
@@ -17,6 +22,6 @@
 
 - title         : "Contacts"
   url           : /contacts
-  excerpt       : "Contacts and profiles"
+  excerpt       : "How to get in touch"
   image         :  ods_logo.jpg 
   
