@@ -3,6 +3,7 @@ layout: article
 permalink: /assignments
 title: "Demo assignments"
 comments: false
+share: false
 image:
   teaser: assignments-demo-teaser.png
 ---

@@ -3,6 +3,7 @@ layout: article
 permalink: /news
 title: "News"
 comments: false
+share: false
 image:
   teaser: teaser-news.jpeg
 ---

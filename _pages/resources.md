@@ -3,6 +3,7 @@ layout: article
 permalink: /resources
 title: "Resources"
 comments: false
+share: false
 image:
   teaser: resources-teaser.png
 ---
