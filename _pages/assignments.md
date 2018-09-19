@@ -8,7 +8,7 @@ image:
   teaser: assignments-demo-teaser.png
 ---
 
-Full assignments are announced each week in a new run of the course (October 1, 2018). Meanwhile, you can pratice with demo versions. Solutions to both demo and full versions will be discussed in the upcoming run of the course. 
+Full assignments are announced each week in a new run of the course (October 1, 2018). Meanwhile, you can practice with demo versions. Solutions to both demo and full versions will be discussed in the upcoming run of the course. 
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 2. Analyzing cardiovascular disease data, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data)
 3. Decision trees with a toy task and the UCI Adult dataset, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-3-decision-trees)
