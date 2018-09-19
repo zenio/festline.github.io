@@ -1,12 +1,13 @@
 # Footer navigation links
 
-
 - title: "ARTICLES"
   url: /
-- title: "ASSIGNMENTS"
-  url: /assignments
+- title: "PREREQUISITES"
+  url: /prerequisites
 - title: "NEWS"
   url: /news
+- title: "ASSIGNMENTS"
+  url: /assignments
 - title: "RESOURCES"
   url: /resources
 - title: "CONTACTS"

@@ -1,9 +1,14 @@
 # Site navigation links
 
-- title         : "ARTICLES"
+- title         : "Articles"
   url           : /
   excerpt       : "Main content"
   image         : ods-stickers-teaser.jpg
+
+- title         : "PREREQUISITES"
+  url           : /prerequisites
+  excerpt       : "Python, math and software"
+  image         :  teaser-prereq.png
 
 - title         : "Assignments"
   url           : /assignments
