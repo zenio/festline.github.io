@@ -5,7 +5,7 @@
   excerpt       : "Main content"
   image         : ods-stickers-teaser.jpg
 
-- title         : "PREREQUISITES"
+- title         : "Prerequisites"
   url           : /prerequisites
   excerpt       : "Python, math and software"
   image         :  teaser-prereq.png

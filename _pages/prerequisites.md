@@ -8,7 +8,7 @@ image:
   teaser: teaser-prereq.png
 ---
 
-# Prerequisites
+The course aims at a perfect balance between theory and practice. Therefore, prerequisites include:
  - Python
  - Math
  - Software
