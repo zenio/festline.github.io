@@ -5,7 +5,7 @@ title: "Resources"
 comments: false
 share: false
 image:
-  teaser: resources-teaser.png
+  teaser: teaser-resources.png
 ---
 
 Here is the list of all resources constituting the course:

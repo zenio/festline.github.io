@@ -5,7 +5,7 @@ title: "Demo assignments"
 comments: false
 share: false
 image:
-  teaser: assignments-demo-teaser.png
+  teaser: teaser-assignments.png
 ---
 
 Full assignments are announced each week in a new run of the course (October 1, 2018). Meanwhile, you can practice with demo versions. Solutions to both demo and full versions will be discussed in the upcoming run of the course. 

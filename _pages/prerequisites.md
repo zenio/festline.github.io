@@ -28,8 +28,8 @@ You've got several alternatives to set up your environment:
  - Pip & Anaconda
  - Docker
 
-#### Kaggle kernels & Azure ML
-The easiest way to start working with course materials is to visit Kaggle Dataset [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse) and fork some Kernels (please keep them private). All your Jupyter notebooks with Anaconda (including `NumPy`, `Pandas`, `Sklearn` etc) are live and running in your browser. However, uploading data sets might be tiresome.
+#### Kaggle Kernels & Azure ML
+The easiest way to start working with course materials is to visit Kaggle Dataset [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse) and fork some Kernels (please keep them private). All your Jupyter notebooks with Anaconda (including `NumPy`, `Pandas`, `Sklearn` etc) are live and running in your browser. However, uploading datasets might be tiresome.
 
 #### Pip & Anaconda
 Most python packages like  `NumPy`, `Pandas` or  `Sklearn` can be installed manually with `pip` – python installer. However, the preferred option is to use Anaconda. Additionally, you'll need `Xgboost`, `Vowpal Wabbit` and (maybe) `LightGBM` and `CatBoost` for competitions. 

@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Open Machine Learning Course"
 image:
-  teaser: teaser-blog.png
+  teaser: ods_logo.jpg
 comments: false
     
 ---
