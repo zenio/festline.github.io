@@ -13,7 +13,7 @@
 - title         : "Assignments"
   url           : /assignments
   excerpt       : "Demo assignments"
-  image         :  assignments-demo-teaser.png
+  image         :  teaser-assignments.png
 
 - title         : "News"
   url           : /news
@@ -23,7 +23,7 @@
 - title         : "Resources"
   url           : /resources
   excerpt       : "A list of all resources constituting the course"
-  image         :  resources-teaser.jpg
+  image         :  teser-resources.jpg
 
 - title         : "Contacts"
   url           : /contacts
