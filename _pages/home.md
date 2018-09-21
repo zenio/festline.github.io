@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Open Machine Learning Course [mlcourse.ai](mlcourse.ai)"
+title: "Open Machine Learning Course mlcourse.ai"
 image:
   teaser: ods_logo.jpg
 comments: false
