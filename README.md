@@ -1,9 +1,7 @@
-# Ilya Kashnitsky
+# [mlcourse.ai](mlcourse.ai)
 
 **work in progress**
 
-Here the `code` for my personal website is stored.  
-Address: https://ikashnitsky.github.io  
 The site is build with [Jekyll][1] using [Skinny Bones][2] by [Michael Rose][3].
 
 
