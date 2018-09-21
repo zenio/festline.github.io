@@ -1,6 +1,7 @@
 # [mlcourse.ai](mlcourse.ai)
 
 **work in progress**
+
 The site is build with [Jekyll][1] using [Skinny Bones][2] by [Michael Rose][3].
 
 
