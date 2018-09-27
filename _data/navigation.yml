@@ -30,8 +30,8 @@
   excerpt       : "How to get in touch"
   image         :  ods_logo.jpg 
 
-- title         : "Support"
-  url           : /support
+- title         : "Contrib"
+  url           : /contrib
   excerpt       : "How you can help"
   image         :  teaser-support.jpg
   
