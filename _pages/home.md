@@ -17,7 +17,7 @@ Navigation:
 - [News](news). Here you can track main announcements during the course.
 - [Resources](resources). Links to other information mirrors of this course like Medium stories, Kaggle Kernels etc.
 - [Contacts](contacts). Ways of reaching OpenDataScience and course team.
-- [Support](support). Various ways in which you can help [mlcourse.ai](mlcourse.ai) to grow.
+- [Contrib](contrib). Various ways in which you can help [mlcourse.ai](mlcourse.ai) to grow.
 
 <div class="tiles">
 {% for post in site.posts %}
