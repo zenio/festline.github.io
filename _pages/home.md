@@ -13,6 +13,7 @@ Next session starts on October 1, 2018. Fill in [this form](https://docs.google.
 
 Navigation:
 - [Prerequisites](prerequisites). Our course is not for total newbies. Though Machine Learning is covered from scratch, still participants are expected to know some math and be able to write code in Python.
+- [Roadmap](roadmap). All activities for which you can get credits in fall 2018 session. These are assignments, projects, competitions, and tutorials.
 - [Assignments](assignments). Here you'll find demo versions of assignments. Assignments in a new session of the course will be different.
 - [News](news). Here you can track main announcements during the course.
 - [Resources](resources). Links to other information mirrors of this course like Medium stories, Kaggle Kernels etc.

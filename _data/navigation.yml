@@ -10,6 +10,11 @@
   excerpt       : "Python, math and software"
   image         :  teaser-prereq.png
 
+- title         : "Roadmap"
+  url           : /roadmap
+  excerpt       : "All activities accounted for in rating"
+  image         :  teaser-roadmap.png
+
 - title         : "Assignments"
   url           : /assignments
   excerpt       : "Demo assignments"
