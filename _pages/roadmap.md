@@ -7,7 +7,7 @@ share: false
 image:
   teaser: teaser-roadmap.png
 ---
-Here you can find all activities for which you can get credits in 2018 fall session of [mlcourse.ai](https://mlcourse.ai). Current student rating is [here](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/).
+Here you can find all activities for which you can get credits in 2018 fall session of [mlcourse.ai](https://mlcourse.ai). Current student rating is [here](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing).
 
 # Plan
 - Assignments
@@ -27,7 +27,7 @@ In the 1st  [competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-
 Rules:
 - Deadline is December 14, 2018
 - You can make maximum 5 submissions a day, and the competition is individual (that is, 1 person per team, team mergers are not allowed)
-- In case you want to get credits, you need to rename your team (of 1 person) in full accordance with your name in course [rating](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/)
+- In case you want to get credits, you need to rename your team (of 1 person) in full accordance with your name in course [rating](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing)
 - if you overfitted and dropped several paces down on private LB, no offense, it's life, only private LB is used to calculate credits
 - Up to December 18, those who managed to beat all benchmarks should upload their reproducible solutions in the .py format (python script) [here](https://www.dropbox.com/request/hhY96sNGMpphOf4oXC8r)
 - The results of the competition and thfinal course rating will be published on December 21, 2018.
