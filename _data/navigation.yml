@@ -7,7 +7,7 @@
 
 - title         : "Prerequisites"
   url           : /prerequisites
-  excerpt       : "Python, math and software"
+  excerpt       : "Python, math, and software"
   image         :  teaser-prereq.png
 
 - title         : "Roadmap"
@@ -17,7 +17,7 @@
 
 - title         : "Assignments"
   url           : /assignments
-  excerpt       : "Demo assignments"
+  excerpt       : "Link to assignments and demo versions"
   image         :  teaser-assignments.png
 
 - title         : "News"
