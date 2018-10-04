@@ -7,7 +7,7 @@ share: false
 image:
   teaser: teaser-roadmap.png
 ---
-Here you can find all activities for which you can get credits in 2018 fall session of [mlcourse.ai](https://mlcourse.ai). Current student rating is [here](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing).
+Here you can find all activities for which you can get credits in 2018 fall session of [mlcourse.ai](https://mlcourse.ai). Current student rating is [here](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing). [Link](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to a Google calendar with all deadlines.
 
 # Plan
 - Assignments
@@ -30,7 +30,7 @@ Rules:
 - In case you want to get credits, you need to rename your team (of 1 person) in full accordance with your name in course [rating](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing)
 - if you overfitted and dropped several paces down on private LB, no offense, it's life, only private LB is used to calculate credits
 - Up to December 18, those who managed to beat all benchmarks should upload their reproducible solutions in the .py format (python script) [here](https://www.dropbox.com/request/hhY96sNGMpphOf4oXC8r)
-- The results of the competition and thfinal course rating will be published on December 21, 2018.
+- The results of the competition and the final course rating will be published on December 21, 2018.
 
 Scoring rules for competitions (Alice & Medium):
 1. Necessary conditions:
