@@ -12,7 +12,7 @@ comments: false
 Next session starts on October 1, 2018. Fill in [this form](https://docs.google.com/forms/d/1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ/) to participate.
 
 Navigation:
- - [Video](video), Recordings of fall 2018 lectures (in process).
+- [Video](video). Recordings of fall 2018 lectures (in process).
 - [Prerequisites](prerequisites). Our course is not for total newbies. Though Machine Learning is covered from scratch, still participants are expected to know some math and be able to write code in Python.
 - [Roadmap](roadmap). All activities for which you can get credits in fall 2018 session. These are assignments, projects, competitions, and tutorials.
 - [Assignments](assignments). Here you'll find both course assignments (accounted in for rating) and demo versions.
