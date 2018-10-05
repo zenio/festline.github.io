@@ -8,7 +8,7 @@ image:
   teaser: teaser-support.jpg
 ---
 
-Fire is kept by enthusiasts. You can foster the development of [mlcourse.ai](mlcourse.ai) in various ways. 
+Fire is kept by enthusiasts. You can foster the development of [mlcourse.ai](https://mlcourse.ai) in various ways. 
 
 ### Edit materials
 If you notice a typo in materials, you are welcome to open an [Issue](https://github.com/Yorko/mlcourse.ai/issues) in the course repo or to send a pull request. If you'd like to join the course team to work on materials, please contact Yury via Slack (@yorko). 
