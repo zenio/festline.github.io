@@ -8,7 +8,7 @@ image:
   teaser: teaser-video.png
 ---
 
-Videolectures are uploaded to [this](https://www.youtube.com/watch?v=DzXgyOcbZZk&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX) YouTube playlist.
+Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 
 Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2NuadRV)
 
