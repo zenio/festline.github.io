@@ -7,6 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
+- **08-10-18** Assignment 2 is released. [Announcement](https://opendatascience.slack.com/archives/C91N8TL83/p1539033268000100) in Slack
 - **07-10-18** Three videos are uploaded: introduction, lecture 1, and dicsussion of demo assignment 1. [Video page](video)
  - **04-10-18.** Course [roadmap](roadmap) is published along with a [calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) with all deadlines
  - **02-10-18.** Those who are done with A1, can start working on 2 Kaggle Inclass competitions held during the course. There'll be special credits for winners. Moreover, 2 assignments will ask you to beat baselines in these competitions. More in [this](https://opendatascience.slack.com/archives/C91N8TL83/p1538470036000100) Slack message. 
