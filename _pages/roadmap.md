@@ -43,26 +43,7 @@ Scoring rules for competitions (Alice & Medium):
    - 4-10 place – 20 credits
 
 # Project  “Alice“
- 
-This is a 6-week long project with lots of instructions in a form of Jupyter notebooks, you'd better choose this one if you don't have cool ideas for an individual project.
-
-The task is to identify a user on the Internet by tracking his/her websessions. This project is an extended version of competition "Alice". It's really extended - it includes data preparation, some statistical hypotheses testing, working with Vowpal Wabbit etc.
- 
-Plan:
- - Week 1. Data preparation. The first part of the project is devoted to preparing data for further descriptive analysis and building predictive models. It will be necessary to write code for data preprocessing (the initially visited web sites are indicated for each user in a separate file) and training set generation. Also in this part we will introduce the sparse data format (Scipy.sparse matrices), which is well suited for this task.
- - Week 2. Preliminary data analysis. In the second week, we will go on with data preparation. Specifically, earlier we determined that the session is a sequence of 10 sites visited by the user, now we will make the session length a parameter, and to be further tuned. We will also get acquainted with the preprocessed data and statistically check the first hypotheses related to our observations. This part will require a detour into statistics. 
- - Week 3. Visual data analysis and feature engineering. We'll create some nice features, then you'll engineer your own ones. 
- - Week 4. Model selection. Here we will finally come to training of classification models.We'll perform cross-validation and choose best model along with its hyperparameters. Also, for the selected algorithm, we'll build validation curves (how classification accuracy depends on hyperparameters of the algorithm) and learning curves (how classification accuracy depends on the training set size).
- - Week 5. Online learning with SGD. Here we recall the concept of stochastic gradient descent and try out Scikit-learn's SGDClassifier classifier, which works much faster on large dataset than the algorithms we tested in week 4. We will also beat a simple baseline in one more Kaggle Inclass competitions (the same as "Alice", but with multi-class).
- - Week 6. Vowpal Wabbit. Here we'll try out this fascinating library in multi-class user indentification task.
-
-Rules:
-- You can choose between Project "Alice" or your own indiviual project (the points will be calculated only for one of them). It means that this project is mostly for those who'll prefer more guidence while working on a project  
-- The project duration is 6 weeks, notebooks are found [here](), you'll need to fill in webforms just as in out assignments.  
-- You'll get up to 30 credits for the whole project, i.e for 6 filled-in webforms. 
-- No peer-review here, no solutions shared
-- Along with the project, you are supposed to take part in the "Alice" competition. You can get no more than 40 credits for project and competition. The formula is simple: maximum of 40 and the sum of credits for project and competition. 
-- Some of you may have taken this project as a Capstone in Yandex and MIPT Specialization. Please, don't take it once more. And yeah, we are not going to check this, up to you.
+More info soon. 
 
 # Kaggle Inclass Competition "Medium"
 [Kaggle Inclass](https://www.kaggle.com/c/how-good-is-your-medium-article/). Here you are proposed to predict popularity (number of claps) of an article on Medium. Rules are the same as for Competition "Alice", only the webform for solution .py files is [another one](https://www.dropbox.com/request/FlY4ES4kS0NzfJrqkGUL).
