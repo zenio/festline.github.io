@@ -10,7 +10,7 @@ image:
 Current course assignments, to be account for in rating:
 1. Exploratory Data Analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb?flush_cache=true). Deadline: **October 14, 21:59 UTC+2**
 2. Exploratory Data Analysis of US flights,  [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment2_USA_flights.ipynb?flush_cache=true). Deadline: **October 21, 21:59 UTC+2**
-3. Decision trees. [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb?flush_cache=true). Deadline: **October 28, 21:59 UTC+2**
+3. Decision trees. [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb?flush_cache=true). Deadline: **October 28, 21:59 UTC+2**. Optional: implementing a decision tree algorithm, [nvbiewer]() (no webforms and credits, the same deadline)
 
 
 
