@@ -79,7 +79,7 @@ The task is to identify a user on the Internet by analysing his/her websessions.
 This is your chance to perform data analysis and predictive modeling for one of [Kaggle datasets](https://www.kaggle.com/datasets), datasets from the UCI repository or any other source. You can use your own data as long as it's not confidential. You have to choose between this project and project "Alice". Max. 40 credits is given for an individual project. Projects will be peer-reviewed. Criteria are listed below, more info on the peer-review process will appear in November. 
 
 ## How to publish a project
-1. Register the topic of your project in this [Google Document](https://goo.gl/ZzNuUN)
+1. Register the topic of your project in this [Google Document](https://docs.google.com/spreadsheets/d/15qao-tn6V7JXy2bWUasWy-yOXDm8xW8ZtPXfdJnO-v4/edit#gid=0)
 2. Make a Pull Request (an [instruction](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)) with your tutorial in a form of a Jupyter notebook [here](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/projects_indiv). Respect the repo structure: put images to img, ipynb file to `jupyter_english/projects_indiv`. Do not commit data to our repo. Instead, upload your data somewhere, and share a link
 3. If you don't cope with these simple rules, your project is not taken into account.
 4. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file. If you'd like to, you can also share the link in the #mlcourse_ai Slack channel with a short description of your project. However, it's not necessary.
@@ -176,7 +176,7 @@ We propose to write and publish a tutorial on any ML/DS-related topic which is n
 
 ## How to publish a tutorial
 
-1. First of all, choose a unique topic and registed it in the [Google doc](https://docs.google.com/spreadsheets/d/15qao-tn6V7JXy2bWUasWy-yOXDm8xW8ZtPXfdJnO-v4/edit?usp=sharing)
+1. First of all, choose a unique topic and registed it in the [Google doc](https://docs.google.com/spreadsheets/d/15qao-tn6V7JXy2bWUasWy-yOXDm8xW8ZtPXfdJnO-v4/edit#gid=0)
 2. Make a Pull Request (an [instruction](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)) with your tutorial in a form of a Jupyter notebook [here](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/tutorials). Respect the repo structure: put images to img, ipynb file to `jupyter_english/tutorials`. Do not commit data to our repo. Instead, upload your data somewhere, and share a link
 3. If you don't cope with these simple rules, your tutorial is not taken into account.
 4. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file and share the link in the #mlcourse_ai Slack channel with a short description of the tutorial. You also need to add the *#tutorial_contest* tag, It's obligatory, otherwise, the tutorial will be ignored.
