@@ -7,6 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
+- **18-10-18.** Individual projects and tutorials are released, see [roadmap](roadmap)
 - **17-10-18.** Project Alice, weeks 1-3, released. See [roadmap](roadmap) 
 - **15-10-18.** Assignment 3 is released. Along with an optional part - implementing a decision tree from scratch. Also, solution to A1 is shared, and course rating is published. Check out pinned items in the #mlcourse.ai Slack channel 
 - **08-10-18.** Assignment 2 is released. [Announcement](https://opendatascience.slack.com/archives/C91N8TL83/p1539033268000100) in Slack
