@@ -81,9 +81,10 @@ This is your chance to perform data analysis and predictive modeling for one of 
 ## How to publish a project
 1. Register the topic of your project in this [Google Document](https://docs.google.com/spreadsheets/d/15qao-tn6V7JXy2bWUasWy-yOXDm8xW8ZtPXfdJnO-v4/edit#gid=0)
 2. Make a Pull Request (an [instruction](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)) with your tutorial in a form of a Jupyter notebook [here](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/projects_indiv). Respect the repo structure: put images to img, ipynb file to `jupyter_english/projects_indiv`. Do not commit data to our repo. Instead, upload your data somewhere, and share a link
-3. If you don't cope with these simple rules, your project is not taken into account.
-4. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file. If you'd like to, you can also share the link in the #mlcourse_ai Slack channel with a short description of your project. However, it's not necessary.
-4. Evaluation process for individual projects is a peer-review, criteria are list below. More info on peer-review process will be provided later.
+3. Projects must be written in English. As for programming language, only Python is allowed
+4. If you don't cope with these simple rules, your project is not taken into account.
+5. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file. If you'd like to, you can also share the link in the #mlcourse_ai Slack channel with a short description of your project. However, it's not necessary.
+6. Evaluation process for individual projects is a peer-review, criteria are list below. More info on peer-review process will be provided later.
 
 ## Plan and evaluation criteria
 
