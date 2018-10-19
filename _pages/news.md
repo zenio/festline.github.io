@@ -7,6 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
+- **19-10-18.** Lecture 3 is available in 2 parts: theory and practice, [video](video). Also, a small update on [assignment 3](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb), regression splitting criterion better explained.  
 - **18-10-18.** Individual projects and tutorials are released, see [roadmap](roadmap)
 - **17-10-18.** Project Alice, weeks 1-3, released. See [roadmap](roadmap) 
 - **15-10-18.** Assignment 3 is released. Along with an optional part - implementing a decision tree from scratch. Also, solution to A1 is shared, and course rating is published. Check out pinned items in the #mlcourse.ai Slack channel 
