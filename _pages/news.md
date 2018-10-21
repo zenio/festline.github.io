@@ -7,6 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
+- **21-10-18.** Assignment 4 and lectures on logistic regression - [slack](https://opendatascience.slack.com/archives/C91N8TL83/p1540155881000100), solution to A2 - [slack](https://opendatascience.slack.com/archives/C91N8TL83/p1540154031000100), [student rating](https://goo.gl/vMHdED) updated with A2 results
 - **19-10-18.** Lecture 3 is available in 2 parts: theory and practice, [video](video). Also, a small update on [assignment 3](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb), regression splitting criterion better explained.  
 - **18-10-18.** Individual projects and tutorials are released, see [roadmap](roadmap)
 - **17-10-18.** Project Alice, weeks 1-3, released. See [roadmap](roadmap) 
