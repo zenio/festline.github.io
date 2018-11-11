@@ -7,7 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
-- **05-11-18.** Assignment 6 released, also 3 new [videos](videos), and [rating](https://goo.gl/vMHdED) updated
+- **05-11-18.** Assignment 6 released, also 3 new [videos](video), and [rating](https://goo.gl/vMHdED) updated
 - **28-10-18.** Assignment 5 released, [rating](https://goo.gl/vMHdED) updated
 - **21-10-18.** Assignment 4 and lectures on logistic regression - [slack](https://opendatascience.slack.com/archives/C91N8TL83/p1540155881000100), solution to A2 - [slack](https://opendatascience.slack.com/archives/C91N8TL83/p1540154031000100), [student rating](https://goo.gl/vMHdED) updated with A2 results
 - **19-10-18.** Lecture 3 is available in 2 parts: theory and practice, [video](video). Also, a small update on [assignment 3](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb), regression splitting criterion better explained.  
