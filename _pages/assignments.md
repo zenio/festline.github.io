@@ -14,7 +14,7 @@ Current course assignments, to be account for in rating:
 4. Logisitic regression. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment4_websites_logistic_regression.ipynb). Deadline: **November 4, 21:59 UTC+2**
 5. Random Forest and Logistic Regression in credit scoring and movie reviews classification. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment5_rf_logit_scoring_texts.ipynb). Deadline: **November 11, 21:59 UTC+2**
 6. Beating baselines in "How good is your Medium article?". [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment6_medium_beat_baseline.ipynb). Deadline: **November 18, 21:59 UTC+2**
-
+7. PCA and clustering. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment7_pca_clustering.ipynb). Deadline: **November 25, 21:59 UTC+2**
 
 Demo assignments, just for practice (completing these has no effect on rating):
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
