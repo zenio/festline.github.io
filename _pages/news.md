@@ -7,6 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
+- **12-11-18.** Assignment 7 and new [videos](video) released, [rating](https://goo.gl/vMHdED) updated
 - **05-11-18.** Assignment 6 released, also 3 new [videos](video), and [rating](https://goo.gl/vMHdED) updated
 - **28-10-18.** Assignment 5 released, [rating](https://goo.gl/vMHdED) updated
 - **21-10-18.** Assignment 4 and lectures on logistic regression - [slack](https://opendatascience.slack.com/archives/C91N8TL83/p1540155881000100), solution to A2 - [slack](https://opendatascience.slack.com/archives/C91N8TL83/p1540154031000100), [student rating](https://goo.gl/vMHdED) updated with A2 results
