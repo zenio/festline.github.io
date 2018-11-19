@@ -7,6 +7,7 @@ share: false
 image:
   teaser: teaser-news.jpeg
 ---
+- **19-11-18.** Assignment 8 and new [videos](video) released, [rating](https://goo.gl/vMHdED) updated
 - **12-11-18.** Assignment 7 and new [videos](video) released, [rating](https://goo.gl/vMHdED) updated
 - **05-11-18.** Assignment 6 released, also 3 new [videos](video), and [rating](https://goo.gl/vMHdED) updated
 - **28-10-18.** Assignment 5 released, [rating](https://goo.gl/vMHdED) updated
