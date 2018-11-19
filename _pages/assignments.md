@@ -7,7 +7,7 @@ share: false
 image:
   teaser: teaser-assignments.png
 ---
-Current course assignments, to be account for in rating:
+Current course assignments, to be accounted for in the course rating:
 1. Exploratory Data Analysis of Olympic games with Pandas, [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb?flush_cache=true). Deadline: **October 14, 21:59 UTC+2**
 2. Exploratory Data Analysis of US flights,  [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment2_USA_flights.ipynb?flush_cache=true). Deadline: **October 21, 21:59 UTC+2**
 3. Decision trees. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_decision_trees.ipynb). Deadline: **October 28, 21:59 UTC+2**. Optional: implementing a decision tree algorithm, [nvbiewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment3_optional_implement_dt.ipynb) (no webforms and credits, the same deadline)
