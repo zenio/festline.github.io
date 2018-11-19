@@ -29,7 +29,7 @@ In the [1st  competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-
 - Deadline for submissions is December 14, 2018
 - You can make maximum 5 submissions a day, and the competition is individual (that is, 1 person per team, team merges are not allowed)
 - In case you want to get credits, you need to rename your team (of 1 person) in full accordance with your name in the course [rating](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing)
-- if you overfitted and plunged several positions down on the private LB -  no offense, it's life. Only private LB is used to calculate credits
+- if you overfitted and plunged several positions down on the private LB - no offense, it's life. Only private LB is used to calculate credits
 - Until the end of December 18, those who managed to beat all benchmarks must upload their reproducible solutions in the .py format (python script) [here](https://www.dropbox.com/request/hhY96sNGMpphOf4oXC8r)
 - The results of the competition and the final course rating will be published on December 21, 2018.
 
@@ -56,9 +56,9 @@ The task is to identify a user on the Internet by analysing his/her websessions.
  - Week 1. Data preparation, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week1_prepare_dataset.ipynb). The first part of the project is devoted to preparing data for further descriptive analysis and building predictive models. It will be necessary to write some code for data preprocessing (web sites visits are labeled for each user in a separate data file) and training set generation. Also in this part we will introduce sparse data format (Scipy.sparse matrices), which is well suited for this task.
  - Week 2. Data preparation, analysis, and hypothesis testing,  [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week2_analysis_hypotheses.ipynb). In the second week, we will go on with data preparation. Specifically, earlier we determined that a session is a sequence of 10 sites visited by a user, now we will make session length a parameter, to be further tuned. We will also get acquainted with the preprocessed data and statistically check first hypotheses related to our observations. This part will require a detour into statistics. 
  - Week 3. Visual data analysis, and feature engineering, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week3_visual_analysis_and_fe.ipynb). We'll create some nice features, then you'll engineer your own ones. 
- - Week 4. Model selection (notebook to appear in November). Here we will finally come to training of classification models. We'll perform cross-validation and choose best model along with its hyperparameters. Also, for the selected algorithm, we'll plot validation curves (how classification accuracy depends on hyperparameters of the algorithm) and learning curves (how classification accuracy depends on the training set size).
- - Week 5. Online learning with SGD (notebook to appear in November). Here we recall a concept of Stochastic Gradient Descent and try out Scikit-learn's SGDClassifier class, which works much faster on large dataset than the algorithms we tested in week 4. We will also beat a simple baseline in one more Kaggle Inclass competitions (the same as "Alice", but with multi-class).
- - Week 6. Vowpal Wabbit (notebook to appear in November). Here we'll try out this fascinating library in multi-class user identification task.
+ - Week 4. Model selection. Here we will finally come to training of classification models. We'll perform cross-validation and choose best model along with its hyperparameters. Also, for the selected algorithm, we'll plot validation curves (how classification accuracy depends on hyperparameters of the algorithm) and learning curves (how classification accuracy depends on the training set size).
+ - Week 5. Online learning with SGD. Here we recall a concept of Stochastic Gradient Descent and try out Scikit-learn's SGDClassifier class, which works much faster on large dataset than the algorithms we tested in week 4. We will also beat a simple baseline in one more Kaggle Inclass competitions (the same as "Alice", but with multi-class).
+ - Week 6. Vowpal Wabbit. Here we'll try out this fascinating library in multi-class user identification task.
 
 ## Rules:
 
@@ -68,6 +68,8 @@ The task is to identify a user on the Internet by analysing his/her websessions.
 - No peer-review here, no solutions sharing
 - Along with the project, you are supposed to take part in the "Alice" competition. You can get no more than 40 credits for both project and competition combined. The formula is simple: the sum of credits for project and competition capped at 40 when exceeded.
 - Some of you may have taken this project as a Capstone in Yandex and MIPT Specialization. Please, don't take it once more. And yeah, we are not going to check this, up to you.
+
+For discussions, please stick to [ODS Slack](https://opendatascience.slack.com), channel #mlcourse_ai, pinned thread **#proj_alice.**
 
 # Kaggle Inclass Competition "Medium"
 
@@ -85,6 +87,9 @@ This is your chance to perform data analysis and predictive modeling for one of 
 4. If you don't cope with these simple rules, your project is not taken into account.
 5. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file. If you'd like to, you can also share the link in the #mlcourse_ai Slack channel with a short description of your project. However, it's not necessary.
 6. Evaluation process for individual projects is a peer-review, criteria are list below. More info on peer-review process will be provided later.
+
+For discussions, please stick to [ODS Slack](https://opendatascience.slack.com), channel #mlcourse_ai, pinned thread **#proj_indiv.**
+
 
 ## Plan and evaluation criteria
 
@@ -174,15 +179,16 @@ We propose to write and publish a tutorial on any ML/DS-related topic which is n
 - A typical tutorial shall be 30-60 minutes to read and digest (however, here exceptions are possible) 
 - Check out a  [list](https://github.com/Yorko/mlcourse.ai/wiki/Individual-projects-and-tutorials-(in-Russian)) of published tutorials from previous runs of this course (in Russian). Yes, it's in Russian but Google Translate can kind of give you an insight into the topics that are already covered. For those who already passed the course: definitely, translating somebody else's (or your own) tutorial into English is not going to work
 - You are not allowed to pick the same topic for an individual project and a tutorial
+- Tutorial submission is due on December 13th
 
 ## How to publish a tutorial
 
 1. First of all, choose a unique topic and registed it in the [Google doc](https://docs.google.com/spreadsheets/d/15qao-tn6V7JXy2bWUasWy-yOXDm8xW8ZtPXfdJnO-v4/edit#gid=0)
 2. Make a Pull Request (an [instruction](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)) with your tutorial in a form of a Jupyter notebook [here](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/tutorials). Respect the repo structure: put images to img, ipynb file to `jupyter_english/tutorials`. Do not commit data to our repo. Instead, upload your data somewhere, and share a link
 3. If you don't cope with these simple rules, your tutorial is not taken into account.
-4. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file and share the link in the #mlcourse_ai Slack channel with a short description of the tutorial. You also need to add the *#tutorial_contest* tag, It's obligatory, otherwise, the tutorial will be ignored.
+4. When your Pull Request is accepted, you need to make an [nbviewer](http://nbviewer.jupyter.org/) link for your ipynb file and share the link in the #mlcourse_ai Slack channel with a short description of the tutorial. You also need to add the *#tutorial* tag, It's obligatory, otherwise, the tutorial will be ignored.
 
-*Tutorial submission is due on December 13th.* 
+For discussions, please stick to [ODS Slack](https://opendatascience.slack.com), channel #mlcourse_ai, pinned thread **#tutorial.**
 
 ## Grading tutorials
 Grading is solely done by other participants voting with :heavy_plus_sign: in Slack. Best tutorials will get up to 40 credits. The exact grading formula is to be provided later. *Voting is finalised on December 20th.*
