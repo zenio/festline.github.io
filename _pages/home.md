@@ -9,7 +9,7 @@ comments: false
 ---
 [mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by OpenDataScience. The course is designed to perfectly balance theory and practice; therefore, each topic is followed by an assignment with a deadline in a week. You can also take part in several Kaggle Inclass competitions held during the course and work on your own projects.
 
-Current session has started on October 1, 2018. You can still participate, fill in [this form](https://docs.google.com/forms/d/1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ/) to get an invitation to ODS Slack team.
+The next session is planned to launch on **February 11, 2019**. Please wait for an announcement in January.
 
 Navigation:
 - [Video](video). Recordings of fall 2018 lectures (in process).
