@@ -16,6 +16,8 @@ Current course assignments, to be accounted for in the course rating:
 6. Beating baselines in "How good is your Medium article?". [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment6_medium_beat_baseline.ipynb). Deadline: **November 18, 21:59 UTC+2**
 7. PCA and clustering. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment7_pca_clustering.ipynb). Deadline: **November 25, 21:59 UTC+2**
 8. StackOverflow questions tagging with logistic regression. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment8_stackoverflow_logistic_regression.ipynb). Deadline: **December 2, 21:59 UTC+2**
+9. Time series analysis. [nbviewer](notebooks/blob/master/jupyter_english/assignments_fall2018/assignment9_time_series.ipynb). Deadline: **December 16, 21:59 UTC+2** 
+10. Flight delays prediction, beating simple baselines. [Kaggle Kernel](https://www.kaggle.com/kashnitsky/mlcourse-ai-assignment10). Deadline: **December 16, 21:59 UTC+2**
 
 Demo assignments, just for practice (completing these has no effect on rating):
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
