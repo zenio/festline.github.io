@@ -7,7 +7,11 @@ share: false
 image:
   teaser: teaser-roadmap.png
 ---
-Here you can find all activities for which you can get credits in 2018 fall session of [mlcourse.ai](https://mlcourse.ai). Current student rating is [here](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing). Google [calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) with all deadlines, static .ics [file](https://drive.google.com/open?id=1xRRt7Saz1Rxc3zVKbovuT_6ibQr9lMVJ).
+Here you can find all activities for which you can get credits in 2018 fall session of [mlcourse.ai](https://mlcourse.ai). Current student rating is [here](https://docs.google.com/spreadsheets/d/19AGEhUQUol6_kNLKSzBsjcGUU3qWy3BNUg8x8IFkO3Q/edit?usp=sharing). 
+
+Google calendar with all deadlines:
+
+<iframe src="https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border: 0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Plan
 - Assignments
