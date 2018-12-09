@@ -21,6 +21,6 @@ Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2Nu
 7. Unsupervised learning - [Principal Component Analysis](https://youtu.be/-AswHf7h0I4) and [Clustering](https://youtu.be/eVplCo-w4XE)
 8. Stochastic Gradient Descent for classification and regression - [part 1](https://youtu.be/EUSXbdzaQE8), part 2 TBA
 9. Time series analysis with Python (ARIMA, Prophet) - [video](https://youtu.be/_9lBwXnbOd8)
-10. Gradient boosting: [basics](https://youtu.be/g0ZOtzZqdqk), key ideas behind Xgboost, LightGBM, and CatBoost + practice - [part 2](https://youtu.be/V5158Oug4W8)
+10. Gradient boosting: basic ideas - [part 1](https://youtu.be/g0ZOtzZqdqk), key ideas behind Xgboost, LightGBM, and CatBoost + practice - [part 2](https://youtu.be/V5158Oug4W8)
 
  
