@@ -20,7 +20,7 @@ Google [calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwM
 - Tutorials
 
 # Assignments
-Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](https://opendatascience.slack.com/). Also, links to fresh assignments are provided in the Readme file of the [course repository](https://github.com/Yorko/mlcourse.ai). Deadlines are typically on Sundays, 20:59 CET. Apart from that, you can practice with demo [assignments](assignments).
+Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](https://opendatascience.slack.com/). Also, links to fresh assignments are provided in the Readme file of the [course repository](https://github.com/Yorko/mlcourse.ai). Deadlines are typically on Sundays, 21:59 UTC+2. Apart from that, you can practice with demo [assignments](assignments).
 
 # Kaggle Inclass Competition "Alice"
 
@@ -41,6 +41,7 @@ In the [1st  competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-
    - Beat all Yorko's baselines on the private LB
    - A reproducible solution must be submitted within the specified period
    - Team name must exactly correspond to the name in the course rating 
+
 ### Credits: 
    - 1 place – 40 credits
    - 2 place – 30 credits
@@ -58,16 +59,16 @@ The task is to identify a user on the Internet by analysing his/her websessions.
  - Week 1. Data preparation, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week1_prepare_dataset.ipynb). The first part of the project is devoted to preparing data for further descriptive analysis and building predictive models. It will be necessary to write some code for data preprocessing (web sites visits are labeled for each user in a separate data file) and training set generation. Also in this part we will introduce sparse data format (Scipy.sparse matrices), which is well suited for this task.
  - Week 2. Data preparation, analysis, and hypothesis testing,  [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week2_analysis_hypotheses.ipynb). In the second week, we will go on with data preparation. Specifically, earlier we determined that a session is a sequence of 10 sites visited by a user, now we will make session length a parameter, to be further tuned. We will also get acquainted with the preprocessed data and statistically check first hypotheses related to our observations. This part will require a detour into statistics. 
  - Week 3. Visual data analysis, and feature engineering, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week3_visual_analysis_and_fe.ipynb). We'll create some nice features, then you'll engineer your own ones. 
- - Week 4. Model selection. Here we will finally come to training of classification models. We'll perform cross-validation and choose best model along with its hyperparameters. Also, for the selected algorithm, we'll plot validation curves (how classification accuracy depends on hyperparameters of the algorithm) and learning curves (how classification accuracy depends on the training set size).
- - Week 5. Online learning with SGD. Here we recall a concept of Stochastic Gradient Descent and try out Scikit-learn's SGDClassifier class, which works much faster on large dataset than the algorithms we tested in week 4. We will also beat a simple baseline in one more Kaggle Inclass competitions (the same as "Alice", but with multi-class).
- - Week 6. Vowpal Wabbit. Here we'll try out this fascinating library in multi-class user identification task.
+ - Week 4. Model selection, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week4_training.ipynb). Here we will finally come to training of classification models. We'll perform cross-validation and choose best model along with its hyperparameters. Also, for the selected algorithm, we'll plot validation curves (how classification accuracy depends on hyperparameters of the algorithm) and learning curves (how classification accuracy depends on the training set size).
+ - Week 5. Online learning with SGD, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week5_sgd_kaggle.ipynb). Here we recall a concept of Stochastic Gradient Descent and try out Scikit-learn's SGDClassifier class, which works much faster on large dataset than the algorithms we tested in week 4. We will also beat a simple baseline in one more Kaggle Inclass competitions (the same as "Alice", but with multi-class).
+ - Week 6. Vowpal Wabbit, [nbviewer](notebooks/blob/master/jupyter_english/project_alice/week6_vowpal_wabbit.ipynb). Here we'll try out this fascinating library in multi-class user identification task.
 
 ## Rules:
 
 - You can choose between Project "Alice" or your own individual project (credits will be given for only one of them). It means that this project is mostly for those who'll prefer more guidance while working on a project  
 - The project duration is 6 weeks, notebooks are [here](https://github.com/Yorko/mlcourse.ai/tree/master/jupyter_english/project_alice). You'll need to fill in webforms just as in our assignments.
 - You'll get up to 30 credits for the whole project, i.e for 6 filled-in webforms. 
-- No peer-review here, no solutions sharing
+- No peer-review here, no solutions sharing from authors (this is an ongoing Capstone project, by the same author, in Yandex and MIPT Specialization)
 - Along with the project, you are supposed to take part in the "Alice" competition. You can get no more than 40 credits for both project and competition combined. The formula is simple: the sum of credits for project and competition capped at 40 when exceeded.
 - Some of you may have taken this project as a Capstone in Yandex and MIPT Specialization. Please, don't take it once more. And yeah, we are not going to check this, up to you.
 
