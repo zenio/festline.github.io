@@ -25,11 +25,6 @@
   excerpt       : "Link to assignments and demo versions"
   image         :  teaser-assignments.png
 
-- title         : "News"
-  url           : /news
-  excerpt       : "What's currently going on"
-  image         :  teaser-news.jpeg
-
 - title         : "Resources"
   url           : /resources
   excerpt       : "A list of all resources constituting the course"
