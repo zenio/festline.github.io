@@ -29,6 +29,11 @@
   url           : /resources
   excerpt       : "A list of all resources constituting the course"
   image         :  teaser-resources.png
+  
+- title         : "Rating"
+  url           : /rating
+  excerpt       : "Top performers in the course"
+  image         :  teaser-rating.png
 
 - title         : "Contacts"
   url           : /contacts
