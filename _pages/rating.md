@@ -8,9 +8,9 @@ image:
   teaser: teaser-rating.png
 ---
 
-## Top-100 performers in the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience
+## Top-100 performers of the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience, fall 2018
 
-According to the [final rating](https://goo.gl/vMHdED). The session took place from October 14 till December 21, 2018, there were about 7500 participants.
+According to the [final rating](https://goo.gl/vMHdED). The session took place from October 14 till December 21, 2018, there were about 2200 participants.
 
 1. Maxim Klyuchnikov, [LinkedIn](https://www.linkedin.com/in/maxnk/), [email](mailto:maxim.n.klyuchnikov@gmail.com)
 1. Ilya Larchenko, [LinkedIn](https://www.linkedin.com/in/larchenko/), [email](mailto:ilya.larchenko@gmail.com)
