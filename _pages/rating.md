@@ -8,10 +8,9 @@ image:
   teaser: teaser-rating.png
 ---
 
-![](https:github.com/Yorko/mlcourse_open/blob/master/img/ods_stickers.jpg)
-## Top-100 performers in the 2nd English session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience
+## Top-100 performers in the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience
 
-according to the [final rating](https://goo.gl/vMHdED). The session took place from October 14 till December 21, 2018, there were about 7500 participants.
+According to the [final rating](https://goo.gl/vMHdED). The session took place from October 14 till December 21, 2018, there were about 7500 participants.
 
 1. Maxim Klyuchnikov, [LinkedIn](https://www.linkedin.com/in/maxnk/), [email](mailto:maxim.n.klyuchnikov@gmail.com)
 1. Ilya Larchenko, [LinkedIn](https://www.linkedin.com/in/larchenko/), [email](mailto:ilya.larchenko@gmail.com)
@@ -114,3 +113,4 @@ according to the [final rating](https://goo.gl/vMHdED). The session took place f
 1. Andrey Varkentin, [email](mailto:andrei.varkentin@yandex.ru)
 1. Bin Jia, [LinkedIn](https://www.linkedin.com/in/bin-jia-79986720/), [email](mailto:flyerae@gmail.com)
 
+*Older ratings can be found in course repo [Wiki](https://github.com/Yorko/mlcourse.ai/wiki)*
