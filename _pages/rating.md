@@ -5,10 +5,12 @@ title: "Rating"
 comments: false
 share: false
 image:
-  teaser: teaser-rating.png
+  teaser: teaser-rating.jpg
 ---
 
 ## Top-100 performers of the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience, fall 2018
+
+<img src='../images/teaser-rating.jpg'>
 
 According to the [final rating](https://goo.gl/vMHdED). The session took place from October 14 till December 21, 2018, there were about 2200 participants.
 
