@@ -5,8 +5,10 @@ title: "Assignments"
 comments: false
 share: false
 image:
-  teaser: teaser-assignments.png
+  teaser: teaser-assignments.jpg
 ---
+
+<img src='../images/teaser-assignments.jpg'>
 
 Demo assignments, just for practice:
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
