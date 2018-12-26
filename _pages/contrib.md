@@ -8,6 +8,8 @@ image:
   teaser: teaser-support.jpg
 ---
 
+<img src='../images/teaser-support.jpg'>
+
 Fire is kept by enthusiasts. You can foster the development of [mlcourse.ai](https://mlcourse.ai) in various ways. 
 
 ### Edit materials
