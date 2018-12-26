@@ -5,8 +5,10 @@ title: "Prerequisites"
 comments: false
 share: false
 image:
-  teaser: teaser-prereq.png
+  teaser: teaser-prereq.jpg
 ---
+
+<img src='../images/teaser-prereq.jpg'>
 
 The course aims at a perfect balance between theory and practice. Therefore, prerequisites include:
  - Python

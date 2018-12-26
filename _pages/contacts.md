@@ -5,8 +5,10 @@ title: "Contacts"
 share: false
 comments: false
 image:
-  teaser: teaser-contacts.png
+  teaser: ods_logo.jpg
 ---
+
+<img src='../images/ods_logo.jpg'>
 
 [OpenDataScience](http://ods.ai), a.k.a. ods.ai, unites more than 20k Data Scientists and is thus one of the biggest IT communities in the world. Among dozens of ODS projects is organizing DataFest, the biggest Russian-speaking DS conference for researchers and practitioners. ODS also has its own educational mission presented here with Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai).
 

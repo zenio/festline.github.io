@@ -5,8 +5,10 @@ title: "Videolectures"
 comments: false
 share: false
 image:
-  teaser: teaser-video.png
+  teaser: teaser-video.jpg
 ---
+
+<img src='../images/teaser-video.jpg'>
 
 Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 

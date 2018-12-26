@@ -5,8 +5,10 @@ title: "Rating"
 comments: false
 share: false
 image:
-  teaser: teaser-rating.png
+  teaser: teaser-rating.jpg
 ---
+
+<img src='../images/teaser-rating.jpg'>
 
 ## Top-100 performers of the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience, fall 2018
 
