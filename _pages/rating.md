@@ -113,4 +113,4 @@ According to the [final rating](https://goo.gl/vMHdED). The session took place f
 1. Andrey Varkentin, [email](mailto:andrei.varkentin@yandex.ru)
 1. Bin Jia, [LinkedIn](https://www.linkedin.com/in/bin-jia-79986720/), [email](mailto:flyerae@gmail.com)
 
-*Older ratings can be found in course repo [Wiki](https://github.com/Yorko/mlcourse.ai/wiki)*
+*Older ratings can be found in the course repo [Wiki](https://github.com/Yorko/mlcourse.ai/wiki).*
