@@ -16,3 +16,5 @@ Here is the list of all resources constituting the course:
  - [GitHub](https://github.com/Yorko/mlcourse.ai) repository. Preferable if you are used to work with git & GitHub;
  - [Habr.com](https://habr.com/company/ods/blog/322626/) articles. Main content in Russian;
  - [VK group](https://vk.com/mlcourse). One more information mirror, Russian-only.
+
+<img src='../images/teaser-prereq.png'>
