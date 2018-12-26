@@ -8,12 +8,12 @@
 - title         : "Video"
   url           : /video
   excerpt       : "Video recording of fall 2018 lectures"
-  image         :  teaser-video.png
+  image         :  teaser-video.jpg
 
 - title         : "Prerequisites"
   url           : /prerequisites
   excerpt       : "Python, math, and software"
-  image         :  teaser-prereq.png
+  image         :  teaser-prereq.jpg
 
 - title         : "Roadmap"
   url           : /roadmap
@@ -23,7 +23,7 @@
 - title         : "Assignments"
   url           : /assignments
   excerpt       : "Link to assignments and demo versions"
-  image         :  teaser-assignments.png
+  image         :  teaser-assignments.jpg
 
 - title         : "Resources"
   url           : /resources
@@ -33,7 +33,7 @@
 - title         : "Rating"
   url           : /rating
   excerpt       : "Top performers in the course"
-  image         :  teaser-rating.png
+  image         :  teaser-rating.jpg
 
 - title         : "Contacts"
   url           : /contacts
