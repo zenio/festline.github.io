@@ -35,6 +35,12 @@
   excerpt       : "Top performers in the course"
   image         :  teaser-rating.jpg
 
+- title         : "FAQ"
+  url           : /faq
+  excerpt       : "Frequently Asked Questions"
+  image         :  teaser-faq.jpg
+
+
 - title         : "Contacts"
   url           : /contacts
   excerpt       : "How to get in touch"
