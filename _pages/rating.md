@@ -39,7 +39,7 @@ According to the [final rating](https://goo.gl/vMHdED). The session took place f
 1. Georgy Surin, [email](mailto:suringeorgy94@gmail.com)
 1. Barinov Konstantin, [LinkedIn](https://www.linkedin.com/in/konstantin-barinov/), [email](mailto:barinov.work-box@yandex.ru)
 1. Dmitry Girdyuk, [GitHub](https://github.com/dmgirdyuk), [LinkedIn](https://www.linkedin.com/in/dmgirdyuk/), [email](dm.girdyuk@mail.ru) 
-1. Korgun Dmitry, [GitHub](https://github.com/tbb), [email](mailto:dmitry.tb@ya.ru)
+1. Korgun Dmitry, [GitHub](https://github.com/tbb), [email](mailto:dmitry.tbb@ya.ru)
 1. Perepechin Danila, [GitHub](https://github.com/d-perepechin), [LinkedIn](https://www.linkedin.com/in/danila-perepechin/), [email](d.a.perepechin@gmail.com) 
 1. Sergey Shkarin, [email](mailto:kouki.sergey@gmail.com), [LinkedIn](https://www.linkedin.com/in/kouki91/), [GitHub](https://github.com/SergeyShk)
 1. Pavel Taiga, [GitHub](https://github.com/ptaiga), [LinkedIn](https://www.linkedin.com/in/ptaiga/), [email](mailto:paveltaiga@mail.ru)
