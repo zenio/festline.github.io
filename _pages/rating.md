@@ -18,7 +18,7 @@ According to the [final rating](https://goo.gl/vMHdED). The session took place f
 1. Ilya Larchenko, [LinkedIn](https://www.linkedin.com/in/larchenko/), [email](mailto:ilya.larchenko@gmail.com)
 1. Ivan Pisarev, [GitHub](https://github.com/Pisarev-I), [LinkedIn](https://www.linkedin.com/in/pisarevi), [email](mailto:pisarev.ik@gmail.com)
 1. Alexey Bykov, [GitHub](https://github.com/devcrab/), [LinkedIn](https://www.linkedin.com/in/alexey-bykov-mipt/), [email](mailto:alexey.bykov.mipt@gmail.com)
-1. Kseniia Terekhova
+1. Kseniia Terekhova, [LinkedIn](https://www.linkedin.com/in/kseniia-terekhova-41b371b8/), [GitHub](https://github.com/prickly-u), [email](mailto:kterehova@gmail.com)
 1. Alexander Kovalev, [GitHub](https://github.com/sankovalev/), [LinkedIn](https://www.linkedin.com/in/velavok/), [email](mailto:sankovalev@gmail.com)
 1. Andrew Trefilov, [GitHub](http://github.com/lalka1/), [LinkedIn](https://www.linkedin.com/in/andtre/), [email](mailto:trefik92@gmail.com)
 1. Nikolai Timonin, [GitHub](https://github.com/timoninn/), [LinkedIn](https://www.linkedin.com/in/timoninn/), [email](mailto:nikki.timonin@yandex.ru)
