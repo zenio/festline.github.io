@@ -5,10 +5,10 @@ title: "Tutorials by students"
 comments: false
 share: false
 image:
-  teaser: teaser-tutorials.jpg
+  teaser: teaser-tutorial.jpg
 ---
 
-<img src='../images/teaser-tutorials.jpg'>
+<img src='../images/teaser-tutorial.jpg'>
 
 One of the assignments in the course is to write a tutorial on almost any ML/DS-related topic. Here's the result. Slack nicks of authors are given with @'s. 
 
