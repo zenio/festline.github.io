@@ -10,14 +10,14 @@ image:
 
 <img src='../images/teaser-tutorials.jpg'>
 
-"Plotly for interactive plots" by Alexander Kovalev (@velavok) - [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/plotly_tutorial_for_interactive_plots_sankovalev.ipynb)
-"Basic semi-supervised learning models" by Gleb Levitski (@altprof) - [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/basic_semi-supervised_learning_models_altprof.ipynb)
-"Yet another ensemble learning helper" by @krotix - https://opendatascience.slack.com/archives/C91N8TL83/p1544203317384100
+1. "Plotly for interactive plots" by Alexander Kovalev (@velavok) - [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/plotly_tutorial_for_interactive_plots_sankovalev.ipynb)
+1. "Basic semi-supervised learning models" by Gleb Levitski (@altprof) - [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/basic_semi-supervised_learning_models_altprof.ipynb)
+1. "Yet another ensemble learning helper" by @krotix - https://opendatascience.slack.com/archives/C91N8TL83/p1544203317384100
 "Imputing missing data with fancyimpute" by @Archit Rungta - https://opendatascience.slack.com/archives/C91N8TL83/p1544268836403500
-"Risk management with Python" by @varan - https://opendatascience.slack.com/archives/C91N8TL83/p1544352428413500
+1. "Risk management with Python" by @varan - https://opendatascience.slack.com/archives/C91N8TL83/p1544352428413500
 "Insights of Monty Hall paradox with Plotly" by @dmironov - https://opendatascience.slack.com/archives/C91N8TL83/p1544251806393500
-"Epidemics on networks with NetworkX and EoN" by @bokomaru - https://opendatascience.slack.com/archives/C91N8TL83/p1544551647494300
-"LDA (Linear Discriminant Analysis) and LDA vs PCA" by @Shivam Panwar - https://opendatascience.slack.com/archives/C91N8TL83/p1544462936467900
+1. "Epidemics on networks with NetworkX and EoN" by @bokomaru - https://opendatascience.slack.com/archives/C91N8TL83/p1544551647494300
+1. "LDA (Linear Discriminant Analysis) and LDA vs PCA" by @Shivam Panwar - https://opendatascience.slack.com/archives/C91N8TL83/p1544462936467900
 "A little more info about NumPy" by @Kseniia - https://opendatascience.slack.com/archives/C91N8TL83/p1544462936467900
 "Forget about GridSearch - how to tune hyperparameters using Hyperopt" by Ilya Larchenko (@ilya_l) - [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/hyperparameters_tunning_ilya_larchenko.ipynb)
 "Merging DataFrames with pandas" by max Palko (@odpalko) - [](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/merging_dataframes_tutorial_max_palko.ipynb)
