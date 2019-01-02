@@ -25,7 +25,7 @@
   excerpt       : "Links to assignments and demo versions"
   image         :  teaser-assignments.jpg
   
-- title         : "Totorials"
+- title         : "Tutorials"
   url           : /tutorials
   excerpt       : "Tutorials written by course participants"
   image         :  teaser-tutorial.jpg
