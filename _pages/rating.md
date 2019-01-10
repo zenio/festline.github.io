@@ -49,7 +49,7 @@ According to the [final rating](https://goo.gl/vMHdED). The session took place f
 1. Ekaterina Skriptsova, [GitHub](https://github.com/actuallyykatie), [email](mailto:actuallyykatie@gmail.com)
 1. Michael Afanasev
 1. Nikita Simonov, [GitHub](https://github.com/geoc0ld),[email](mailto:simonoff.n.a@yandex.ru)
-1. Samokhvalov Mikhail
+1. Samokhvalov Mikhail, [email](mailto:2051sam@gmail.com)
 1. Sergey Bronskiy, [email](mailto:s.s.bronskiy@gmail.com)
 1. Victor Tolmachev, [GitHub](https://github.com/greav), [LinkedIn](http://www.linkedin.com/in/victor-tolmachev-2406), [email](tolmachev.2406@gmail.com) 
 1. Maxim Kashirin, [GitHub](https://github.com/MaximKsh), [LinkedIn](https://www.linkedin.com/in/kshmax), [email](mailto:ksh.max@gmail.com)
