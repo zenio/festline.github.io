@@ -11,10 +11,10 @@ image:
 <img src='../images/teaser-prereq.jpg'>
 
 The course aims at a perfect balance between theory and practice. Therefore, prerequisites include:
- - [Python](#Python)
- - [Math](#Math)
- - [Software requirements](#Software-requirements)
- - [DevOps](#DevOps) 
+ - Python
+ - Math
+ - Software requirements
+ - DevOps
 
 ## Python
 Basic skills are required: writing loops, functions, classes etc. Passing some interactive tutorial like DataQuest, DataCamp or even CodeAcademy will suffice. However, deeper dive into Python is only appreciated, there will be some tasks where you have to implement an ML algo from scratch.
