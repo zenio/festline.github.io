@@ -25,3 +25,6 @@ You need basic Python skills and math knowledge. There are also some software re
 **How do I work with course materials?**
 
 You can do it just in a browser with [this Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse). However, if you are fine with git & GitHub, then forking the [course repo](https://github.com/Yorko/mlcourse.ai) is a preferred way. 
+
+**Will there be new video lectures?**
+Check out [mlcourse.ai/video](video), only few will be added.
