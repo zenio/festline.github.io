@@ -83,7 +83,7 @@ We propose to write and publish a tutorial on any ML/DS-related topic which is n
 ## How to publish a tutorial
 
 1. First of all, choose a unique topic and registed it in the [Google doc](https://docs.google.com/spreadsheets/d/1oURFd4G--FyCP-mj8Dc5y0jAo_uJ3d3f5ljjcQDLZsc/edit?usp=sharing)
-2. Create a Kaggle Kernel with your tutorial [here](https://inclass.kaggle.com/kashnitsky/mlcourse/kernels) 
+2. Create a Kaggle Kernel with your tutorial [here](https://inclass.kaggle.com/kashnitsky/mlcourse/kernels) (and of course do upvote all kernels that you find useful)
 3. Make sure your Kernel runs normally and produces no errors
 4. Then share the link to your Kernel in the #mlcourse_ai Slack channel with a short description of the tutorial. You also need to add the *#tutorial* tag, It's obligatory, otherwise, the tutorial will be ignored.
 
