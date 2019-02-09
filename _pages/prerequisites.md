@@ -13,7 +13,7 @@ image:
 The course aims at a perfect balance between theory and practice. Therefore, prerequisites include:
  - [Python](#Python)
  - [Math](#Math)
- - [Software](#Software)
+ - [Software requirements](#Software-requirements)
  - [DevOps](#DevOps) 
 
 ## Python
