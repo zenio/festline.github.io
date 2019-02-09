@@ -13,12 +13,12 @@ image:
 All activities accounted for in spring 2019 [rating](https://drive.google.com/open?id=1LAy1eK8vIONzIWgcCEaVmhKPSj579zK5lrECf_tQT60). 
 
 # Plan
-- [Calendar](#Calendar)
-- [Assignments](#Assignments)
-- [Kaggle Inclass Competition "Alice"](#Kaggle-Inclass-Competition-Alice)
-- [Kaggle Inclass Competition "Medium"](#Kaggle-Inclass-Competition-Medium)
-- [2 more Kaggle competitions](#2-more-Kaggle-competitions)
-- [Tutorials](#Tutorials)
+- Calendar
+- Assignments
+- Kaggle Inclass Competition "Alice"
+- Kaggle Inclass Competition "Medium"
+- 2 more Kaggle competitions
+- Tutorials
 
 # Calendar
 [Google Calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) with all deadlines.
