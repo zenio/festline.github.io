@@ -10,6 +10,9 @@ image:
 
 <img src='../images/teaser-rating.jpg'>
 
+## Current spring 2019 rating
+[Rating](https://drive.google.com/open?id=1LAy1eK8vIONzIWgcCEaVmhKPSj579zK5lrECf_tQT60)
+
 ## Top-100 performers of the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience, fall 2018
 
 According to the [final rating](https://goo.gl/vMHdED). The session took place from October 14 till December 21, 2018, there were about 2200 participants.
