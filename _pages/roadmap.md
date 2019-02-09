@@ -15,8 +15,8 @@ All activities accounted for in spring 2019 [rating](https://drive.google.com/op
 # Plan
 - [Calendar](#Calendar)
 - [Assignments](#Assignments)
-- [Kaggle Inclass Competition "Alice"](#Kaggle-Inclass-Competition-"Alice")
-- [Kaggle Inclass Competition "Medium"](#Kaggle-Inclass-Competition-"Medium")
+- [Kaggle Inclass Competition "Alice"](#Kaggle-Inclass-Competition-Alice)
+- [Kaggle Inclass Competition "Medium"](#Kaggle-Inclass-Competition-Medium)
 - [2 more Kaggle competitions](#2-more-Kaggle-competitions)
 - [Tutorials](#Tutorials)
 
