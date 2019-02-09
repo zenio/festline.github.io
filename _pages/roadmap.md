@@ -30,6 +30,8 @@ Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](ht
  - A3. Decision trees, random forest, and gradient boosting. Beating baseline in one more competition
  - A4. Time series analysis with Python
  - A5. Beating baseline in one more competition
+ 
+If stuck with assignments, check course [video lectures](video).
 
 # Kaggle Inclass Competition "Alice"
 
