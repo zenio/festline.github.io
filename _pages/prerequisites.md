@@ -23,39 +23,74 @@ Basic skills are required: writing loops, functions, classes etc. Passing some i
 Knowledge of basic concepts from calculus, linear algebra, probability theory, and statistics is also required. If you need to catch up, a good resource will be Part I of the ["Deep Learning" book](http://www.deeplearningbook.org/) or ["Mathematics for Machine Learning"](https://mml-book.github.io/). For a deeper dive take a look at [MIT courses](https://ocw.mit.edu/courses/mathematics/).
 
 ## Software requirements
-Generally, installing the latest [Anaconda 3](https://www.anaconda.com/download/) distribution is the best option (it contains latest Python with `NumPy`, `Pandas`, `Sklearn`, `Jupyter` and lots of other libraries). However, some other packages are also used – `Xgboost` and/or `LightGBM` and/or `CatBoost` and `Vowpal Wabbit` to name a few. Installing some of them on Windows might be painful.
+We have prepared a Docker image with all the software required to run the lecture notebooks and the homeworks. We validate out notebooks against the docker image we use. We synchronize package versions with  Kaggle image and freeze it just before the course beging.
 
-You've got several alternatives to set up your learning environment:
+You may want to use this image (recommended). Otherwise [Anaconda 3](https://www.anaconda.com/download/) distribution is the best option (it contains latest Python with `NumPy`, `Pandas`, `Sklearn`, `Jupyter` and lots of other libraries). However, some other packages are also used – `Xgboost` and/or `LightGBM` and/or `CatBoost` and `Vowpal Wabbit` to name a few. In addition, `graphviz` library must be installed. Installing some of them on Windows might be painful.
+
+To summirize, you've got several alternatives to set up your learning environment:
  - Kaggle Kernels & Azure ML
  - Pip & Anaconda
  - Docker
 
-#### Kaggle Kernels & Azure ML
-The easiest way to start working with course materials is to visit Kaggle Dataset [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse) and fork some Kernels (please keep them private). All your Jupyter notebooks with Anaconda are live and running in your browser. Almost all needed datasets are there as well. However, uploading other datasets might be tiresome. 
+### Kaggle Kernels & Azure ML
+The easiest way to start working with course materials (no local sotware installation) is to visit Kaggle Dataset [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse) and fork some Kernels (please keep them private). All your Jupyter notebooks with Anaconda are live and running in your browser. Almost all needed datasets are there as well. However, uploading other datasets might be tiresome. 
 
-#### Pip & Anaconda
+### Pip & Anaconda
 Most python packages like `NumPy`, `Pandas` or  `Sklearn` can be installed manually with `pip` – python installer. However, the preferred option is to use Anaconda. Additionally, you'll need `Xgboost`, `Vowpal Wabbit` and (maybe) `LightGBM` and `CatBoost` for competitions. 
 
-#### Docker
+### Docker
 All necessary software is already installed and distributed in a form of a [Docker container](https://hub.docker.com/r/festline/mlcourse_open/). Instructions:
 
+#### Docker on Linux and MacOS
  - install [Docker](https://docs.docker.com/engine/installation/)
- - in case of Windows you might need to [enable virtualization](http://www.sysprobs.com/disable-enable-virtualization-technology-bios) in BIOS
+ - install git using your OS package manager
  - clone and download the [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) repository
  - cd in terminal into `mlcourse.ai`
- - execute `python run_docker_jupyter.py`. First time it might take 5-10 minutes
- - optionally, you can add some more installations to the [Dockerfile](https://github.com/Yorko/mlcourse_open/blob/master/Dockerfile) file, build locally the Docker image (`docker build -t <tag_name> .`) and run `python run_docker_jupyter.py -t <tag_name>`
- - go to `localhost:4545`
- - execute all cells in notebook [check_docker.ipynb](https://github.com/Yorko/mlcourse_open/blob/master/docker_files/check_docker.ipynb) to make sure all the libraries are installed and work fine.
+ - execute `bash run_docker_jupyter.sh`. First time it might take 5-10 minutes for image downloading
+ - aim your browser to `localhost:4545`. You should see files from the mlcourse.ai folder
+ - To test your setup, click on `docker_files` directory, open `check_docker.ipynb` and  execute all cells to make sure all the libraries are installed and work fine.
 
-Typically, Docker containers need a lot of disk space
+#### Docker on Windows
+
+If you meet the following requirements, install [docker for windows](https://docs.docker.com/docker-for-windows/install/)
+
+ - Windows 10 64bit: Pro, Enterprise or Education (1607 Anniversary Update, Build 14393 or later).
+ - Virtualization is enabled in BIOS. Typically, virtualization is enabled by default. This is different from having Hyper-V enabled. For    more detail see Virtualization must be enabled in Troubleshooting.
+ - At least 4GB of RAM.
+
+It's not the end of the world if you can't meet these requirements. 
+You can still use <a href="https://docs.docker.com/toolbox/overview/">Docker Toolbox</a> which is a good official alternative and with less requirements with regard to Windows version. Docker almost have no differences in work with Docker Toolbox for you, but there are a lot of differences in a nutshell, just pay no attention to that in the moment. 
+
+When you run the installer, it may offer you to install git along. Mark a checkbox with this option if you don't have git on your system.
+
+In the case of docker toolbox, you may or may not need to delete your existing Virtualbox installation.
+
+Once installation is complete, open docker (in case of docker toolbox open Docker CLI, it's called Docker Quickstart Terminal) and type: `> docker run hello-world`. It should run without errors.
+
+Open a Command line terminal and clone the course repo: `git clone https://github.com/Yorko/org_mlcourse_ai`
+
+:warning: Attention docker toolbox users: you must put your repo in your home dir, i.e. `C:\Users\%username%\mlcourse.ai`, otherwise the `run_docker_jupyter_windows.cmd` won't work. There is a workaround in case of different location, but we don't assist with it.
+
+Change to mlcourse.ai directory: `cd mlcourse.ai` and run `run_docker_jupyter_windows.cmd`. Take a note on the local address the notebook reports, and aim your browser to this address. In case of Windows 10 and Hyper-V it should just be `http://localhost:4545`. In case of docker toolbox, it's different. We implemented autostart of your default browser with the correct address, but beware, that it may not work in Internet explorer or Edge (for unknown reason). Use Firefox or Chrome then.
+
+In the browser you should see directory tree from your mlcourse.ai folder. Click on `docker_files`, open `check_docker.ipynb` and execute all cells to make sure all the libraries are installed and work fine.
+ 
+#### Docker tips
+- Typically, Docker containers need a lot of disk space. Official mlcourse image requires some 6Gb of space.
+- use `docker pull` to get new files from the repo to your locally downloaded repo.
+- when you work with an assignment notebook, duplicate it first, and work with the duplicate. This way it's easier to pull changes to the repo, since there will be no conflicts on the file level. If you'd like to work on a lecture notebook, do the same.
+- You can install additional packages right in the Jupyter notebook with `pip install --user your_new_package`. They will be installed in mlcourse.ai/home folder and will persist across Jupyter restart.
+- optionally, you can modify the [docker_files/Dockerfile](https://github.com/Yorko/mlcourse.ai/blob/master/docker_files/Dockerfile) file, build a new image locally with `docker build -t <tag_name>`) and run `run_docker_jupyter.sh <tag_name>` (only supported under Linux/MacOS).
+- Docker [documentation](https://docs.docker.com/engine/getstarted/) is full of concise and clear examples. 
+
+Few usefull commands:
+
 - *docker ps* – list all containers
 - *docker stop $(docker ps -a -q)* – stop all containers
 - *docker rm $(docker ps -a -q)* – remove all containers
 - *docker images* - list all docker images
 - *docker rmi \<image_id\>* – remove a docker image
 
-Docker [documentation](https://docs.docker.com/engine/getstarted/) is full of concise and clear examples. 
 
 #### Jupyter
 Regardless of the environment (pip, Kaggle Kernels/Azure or Docker), you'll work with Jupyter notebooks. If new to this, take a look at [jupyter.org](http://jupyter.org/). In a nutshell, this is a way of mixing code, graphics, markdown, latex etc. in single development environment. Perfect for sharing your work/ideas, for prototyping and for working with educative materials. 
