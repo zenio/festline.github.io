@@ -22,6 +22,16 @@ If you register for the course, you'll be invited prior to the course start. Che
 
 Please wait till the start of the new session. 
 
+**Am I not accepted?**
+
+No, you are by default accepted. The course is open for everyone. 
+
+**What do I do if I don't get access to Slack when the course has already started?**
+
+ - Check spam folder
+ - Anyway, try to log in to [https://opendatascience.slack.com](https://opendatascience.slack.com)
+ - Lastly, try to fill in the intro form (mentioned on the [main page](https://mlcourse.ai/)) with a diferent e-mail address
+
 **How do I prepare for the course?**
 
 You need basic Python skills and math knowledge. There are also some software requirements. Check out [prerequisites](prerequisites)
@@ -33,3 +43,7 @@ You can do it just in a browser with [this Kaggle Dataset](https://www.kaggle.co
 **Will there be new video lectures?**
 
 Check out [mlcourse.ai/video](video), only few will be added.
+
+**Can I join the course on the go?**
+
+Yes, at any point till the ongoing session is over. 
