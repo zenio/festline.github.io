@@ -18,6 +18,10 @@ Wait for an announcement on the main page. There'll be a registration form as we
 
 If you register for the course, you'll be invited prior to the course start. Check carefully your email address, and then your spam folder. You'll be able to join [https://opendatascience.slack.com](https://opendatascience.slack.com)
 
+**I've filled in the form, still no invitations and confirmations**
+
+Please wait till the start of the new session. 
+
 **How do I prepare for the course?**
 
 You need basic Python skills and math knowledge. There are also some software requirements. Check out [prerequisites](prerequisites)
