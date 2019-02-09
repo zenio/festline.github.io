@@ -23,7 +23,7 @@ Basic skills are required: writing loops, functions, classes etc. Passing some i
 Knowledge of basic concepts from calculus, linear algebra, probability theory, and statistics is also required. If you need to catch up, a good resource will be Part I of the ["Deep Learning" book](http://www.deeplearningbook.org/) or ["Mathematics for Machine Learning"](https://mml-book.github.io/). For a deeper dive take a look at [MIT courses](https://ocw.mit.edu/courses/mathematics/).
 
 ## Software requirements
-We have prepared a Docker image with all the software required to run the lecture notebooks and the homeworks. We validate out notebooks against the docker image we use. We synchronize package versions with  Kaggle image and freeze it just before the course beging.
+We have prepared a [Docker image](https://cloud.docker.com/u/festline/repository/docker/festline/mlcourse_ai) with all software required to run lecture notebooks and assignments. We validate out notebooks against the docker image we use. We synchronize package versions with the Kaggle Docker image and freeze it just before the course starts.
 
 You may want to use this image (recommended). Otherwise [Anaconda 3](https://www.anaconda.com/download/) distribution is the best option (it contains latest Python with `NumPy`, `Pandas`, `Sklearn`, `Jupyter` and lots of other libraries). However, some other packages are also used – `Xgboost` and/or `LightGBM` and/or `CatBoost` and `Vowpal Wabbit` to name a few. In addition, `graphviz` library must be installed. Installing some of them on Windows might be painful.
 
@@ -52,28 +52,28 @@ All necessary software is already installed and distributed in a form of a [Dock
 
 #### Docker on Windows
 
-If you meet the following requirements, install [docker for windows](https://docs.docker.com/docker-for-windows/install/)
+If you meet the following requirements, install [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
 
  - Windows 10 64bit: Pro, Enterprise or Education (1607 Anniversary Update, Build 14393 or later).
  - Virtualization is enabled in BIOS. Typically, virtualization is enabled by default. This is different from having Hyper-V enabled. For    more detail see Virtualization must be enabled in Troubleshooting.
  - At least 4GB of RAM.
 
 It's not the end of the world if you can't meet these requirements. 
-You can still use <a href="https://docs.docker.com/toolbox/overview/">Docker Toolbox</a> which is a good official alternative and with less requirements with regard to Windows version. Docker almost have no differences in work with Docker Toolbox for you, but there are a lot of differences in a nutshell, just pay no attention to that in the moment. 
+You can still use [Docker Toolbox]("https://docs.docker.com/toolbox/overview) which is a good official alternative and with less requirements with regard to Windows version. There are slight differences between Docker and Docker Toolbox for the end user, but you can safely use both for now. 
 
 When you run the installer, it may offer you to install git along. Mark a checkbox with this option if you don't have git on your system.
 
-In the case of docker toolbox, you may or may not need to delete your existing Virtualbox installation.
+In case of Docker Toolbox, you may or may not need to delete your existing Virtualbox installation.
 
 Once installation is complete, open docker (in case of docker toolbox open Docker CLI, it's called Docker Quickstart Terminal) and type: `> docker run hello-world`. It should run without errors.
 
 Open a Command line terminal and clone the course repo: `git clone https://github.com/Yorko/org_mlcourse_ai`
 
-:warning: Attention docker toolbox users: you must put your repo in your home dir, i.e. `C:\Users\%username%\mlcourse.ai`, otherwise the `run_docker_jupyter_windows.cmd` won't work. There is a workaround in case of different location, but we don't assist with it.
+Warning for Docker Toolbox users: you must put your repo in your home dir, i.e. `C:\Users\%username%\mlcourse.ai`, otherwise the `run_docker_jupyter_windows.cmd` won't work. There is a workaround in case of a different location, but we don't assist with it.
 
-Change to mlcourse.ai directory: `cd mlcourse.ai` and run `run_docker_jupyter_windows.cmd`. Take a note on the local address the notebook reports, and aim your browser to this address. In case of Windows 10 and Hyper-V it should just be `http://localhost:4545`. In case of docker toolbox, it's different. We implemented autostart of your default browser with the correct address, but beware, that it may not work in Internet explorer or Edge (for unknown reason). Use Firefox or Chrome then.
+Change to mlcourse.ai directory: `cd mlcourse.ai` and run `run_docker_jupyter_windows.cmd`. Take a note on the local address the notebook reports, and aim your browser to this address. In case of Windows 10 and Hyper-V it should just be `http://localhost:4545`. In case of Docker Toolbox, it's different. We implemented autostart of your default browser with the correct address, but beware, that it may not work in Internet Explorer or Edge (for unknown reason). Use Firefox or Chrome then.
 
-In the browser you should see directory tree from your mlcourse.ai folder. Click on `docker_files`, open `check_docker.ipynb` and execute all cells to make sure all the libraries are installed and work fine.
+In the browser you should see the directory tree from your mlcourse.ai folder. Click on `docker_files`, open `check_docker.ipynb` and execute all cells to make sure all the libraries are installed and work fine.
  
 #### Docker tips
 - Typically, Docker containers need a lot of disk space. Official mlcourse image requires some 6Gb of space.
