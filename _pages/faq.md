@@ -16,7 +16,7 @@ Wait for an announcement on the main page. There'll be a registration form as we
 
 **How do I join Slack community?**
 
-If you register for the course, you'll be invited prior to the course start. Check carefully your email address, and then your spam folder. You'll be able to join [https://opendatascience.slack.com](https://opendatascience.slack.com)
+If you register for the course, you'll be invited prior to the course start. Check carefully your email address, and then your spam folder. You'll be able to join [https://opendatascience.slack.com](https://opendatascience.slack.com).
 
 **I've filled in the form, still no invitations and confirmations**
 
@@ -34,7 +34,7 @@ No, you are by default accepted. The course is open for everyone.
 
 **How do I prepare for the course?**
 
-You need basic Python skills and math knowledge. There are also some software requirements. Check out [prerequisites](prerequisites)
+You need basic Python skills and math knowledge. There are also some software requirements. Check out [prerequisites](prerequisites).
 
 **How do I work with course materials?**
 
