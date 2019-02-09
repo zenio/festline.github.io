@@ -10,7 +10,7 @@ image:
 
 <img src='../images/teaser-video.jpg'>
 
-Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
+This is a [YouTube playlist](https://bit.ly/2zY6Xe2) with fall 2018 video lectures. Almost no new ones are planned in 2019, the course gets more competition-focused. 
 
 Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2NuadRV)
 
