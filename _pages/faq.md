@@ -47,3 +47,11 @@ Check out [mlcourse.ai/video](video), only few will be added.
 **Can I join the course on the go?**
 
 Yes, at any point till the ongoing session is over. 
+
+**Will I get a certificate when I've finished the course?**
+
+No. Real knowledge and skills are much more important. 
+
+**Can I at least prove that I've done a good job?**
+
+Yes, if you finish in top-100 accoring to the final course rating. Your name will be [immortalized](rating).
