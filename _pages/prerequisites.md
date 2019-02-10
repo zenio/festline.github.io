@@ -67,7 +67,7 @@ In case of Docker Toolbox, you may or may not need to delete your existing Virtu
 
 Once installation is complete, open docker (in case of docker toolbox open Docker CLI, it's called Docker Quickstart Terminal) and type: `> docker run hello-world`. It should run without errors.
 
-Open a Command line terminal and clone the course repo: `git clone https://github.com/Yorko/org_mlcourse_ai`
+Open a Command line terminal and clone the course repo: `git clone https://github.com/Yorko/mlcourse.ai`
 
 Warning for Docker Toolbox users: you must put your repo in your home dir, i.e. `C:\Users\%username%\mlcourse.ai`, otherwise the `run_docker_jupyter_windows.cmd` won't work. There is a workaround in case of a different location, but we don't assist with it.
 
