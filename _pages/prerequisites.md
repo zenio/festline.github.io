@@ -43,6 +43,7 @@ All necessary software is already installed and distributed in a form of a [Dock
 
 #### Docker on Linux and MacOS
  - install [Docker](https://docs.docker.com/engine/installation/)
+ - add your user to the docker group: `sudo usermod -aG docker your_user_name`
  - install git using your OS package manager
  - clone and download the [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) repository
  - cd in terminal into `mlcourse.ai`
