@@ -11,7 +11,7 @@ image:
 <img src='../images/teaser-assignments.jpg'>
 
 ### Spring 2019 assignments
-1. Exploratory Data Analysis (EDA) of US flights, [nbviewer](https://goo.gl/5PS8cR)
+1. Exploratory Data Analysis (EDA) of US flights, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment1_USA_flights_EDA.ipynb?flush_cache=true)
 2. First two competitions:
     - Part 1. User Identification with Logistic Regression (beating baselines in the "Alice" competition), [nbviewer](https://goo.gl/9NNK6i)
     - Part 2. Predicting Medium articles popularity with Ridge Regression (beating baselines in the "Medium" competition), [nbviewer](https://goo.gl/UNJXxz)
