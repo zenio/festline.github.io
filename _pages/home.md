@@ -17,12 +17,12 @@ Current session: **February 11th - April 26th, 2019**. You can join at any point
 **How to start with the course:**
  - set up a local or cloud Jupyter environment (Anaconda, Kaggle Kernels, Google Colab etc): [mlcourse.ai/prerequisites](https://mlcourse.ai/prerequisites)
  - go to [mlcourse.ai/assignments](https://mlcourse.ai/assignments) and download a Jupyter notebook (click an nbviewer link -> download icon in the upper-right corner -> right click -> Save link as), further instructions are given therein (alternatively, you can pull changes from the course repo if you're familiar with git)
- - run the notebook with Jupyter, read instruction carefully, there'll be ample links to corresponding materials within our course (lectures, articles, demo assignments)
+ - run the notebook with Jupyter, read instructions carefully, there'll be ample links to corresponding materials within our course (lectures, articles, demo assignments)
  - fill in the missing Python code, finally you'll be asked to fill in a Google quiz form. In some assignments, you'll be asked to make a submission in a Kaggle Inclass competition. You need to do it before the deadline
 
 **How to join ODS Slack community:**
  - fill in [this form](https://docs.google.com/forms/d/1BMqcUc-hIQXa0HB_Q2Oa8vWBtGHXk8a6xo5gPnMKYKA/edit), you'll get an invitation (check your spam folder), you'll be able to login to [opendatascience.slack.com](https://opendatascience.slack.com/), check [FAQ](https://mlcourse.ai/faq) in case of problems
- - when in Slack, first check the **#mlcourse_ai_news** channel for latest announcement, then you can freely chat in the **#mlcourse_ai** channel 
+ - when in Slack, first check the **#mlcourse_ai_news** channel for latest announcements, then you can freely chat in the **#mlcourse_ai** channel, but use threads and check pinned items first (these are described in an introductory e-mail that you'll get) 
  - stick to special threads (mentioned in assignments) for questions on assignments
  
  **Navigating this site:**
