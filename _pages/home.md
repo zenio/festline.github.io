@@ -26,7 +26,7 @@ Current session: **February 11th - April 26th, 2019**. You can join at any point
  - stick to special threads (mentioned in assignments) for questions on assignments
  
  **Navigating this site:**
- - [articles](articles) - main course content, see icons below
+ - on this page, you'll find the main course content, see icons below
  - [video](video) - video recordings of fall 2018 lectures 
  - [prerequisites](prerequisites) - what you need to join this course
  - [roadmap](roadmap) - plan for the ongoing course session
