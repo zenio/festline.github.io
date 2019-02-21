@@ -13,15 +13,20 @@ image:
 All activities accounted for in spring 2019 [rating](https://drive.google.com/open?id=1LAy1eK8vIONzIWgcCEaVmhKPSj579zK5lrECf_tQT60). 
 
 # Plan
-- Calendar
+- Calendar and deadlines
 - Assignments
 - Kaggle Inclass Competition "Alice"
 - Kaggle Inclass Competition "Medium"
 - 2 more Kaggle competitions
 - Tutorials
 
-# Calendar
+# Calendar and deadlines
 [Google Calendar](https://calendar.google.com/calendar?cid=Z25pZ3EwZGxxb2I5cDZwMWptam5rdmY3NWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) with all deadlines.
+
+Current deadlines (see also the [assignments](assignments) page):
+ - February 24 - A1
+ - March 10 - A2
+
 
 # Assignments
 Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](https://opendatascience.slack.com/) (pinned items). Also, links to fresh assignments are provided in the Readme file of the [course repository](https://github.com/Yorko/mlcourse.ai) and on [mlcourse.ai/assignments](assignments). Deadlines are typically on Sundays, 20:59 UTC. Apart from that, you can practice with demo [assignments](assignments), don't confuse them with "real" ones. Rough plan for spring 2019 assignments is the folowing:
