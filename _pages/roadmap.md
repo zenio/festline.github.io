@@ -27,6 +27,7 @@ Current deadlines (see also the [assignments](assignments) page):
  - February 24 - A1
  - March 10 - A2
 
+All deadlines are 20:59 UTC (London time). 
 
 # Assignments
 Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](https://opendatascience.slack.com/) (pinned items). Also, links to fresh assignments are provided in the Readme file of the [course repository](https://github.com/Yorko/mlcourse.ai) and on [mlcourse.ai/assignments](assignments). Deadlines are typically on Sundays, 20:59 UTC. Apart from that, you can practice with demo [assignments](assignments), don't confuse them with "real" ones. Rough plan for spring 2019 assignments is the folowing:
