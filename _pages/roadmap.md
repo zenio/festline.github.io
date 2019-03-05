@@ -26,6 +26,7 @@ All activities accounted for in spring 2019 [rating](https://drive.google.com/op
 Current deadlines (see also the [assignments](assignments) page):
  - February 24 - A1
  - March 10 - A2
+ - March 17 - uploading solutions to Alice & Medium 
 
 All deadlines are 20:59 UTC (London time). 
 
@@ -35,7 +36,8 @@ Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](ht
  - A2. Beating baselines in Alice & Medium competitions
  - A3. Decision trees, random forest, and gradient boosting. Beating baseline in one more competition
  - A4. Time series analysis with Python
- - A5. Beating baseline in one more competition
+ - A5. Vowpal Wabbit
+ - A6. Beating baseline in one more competition
  
 If stuck with assignments, check course [video lectures](video).
 
@@ -49,7 +51,7 @@ In the [1st competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-d
 - You can make maximum 5 submissions a day, and the competition is individual (that is, 1 person per team, team merges are not allowed)
 - In case you want to get credits, you need to rename your team (of 1 person) in full accordance with your name in the course [rating](https://drive.google.com/open?id=1LAy1eK8vIONzIWgcCEaVmhKPSj579zK5lrECf_tQT60)
 - if you overfitted and plunged several positions down on the private LB - no offense, it's life. Only private LB is used to calculate final credits (that's not true for baselines in A2, check instructions therein)
-- Till March 17th, those who managed to beat all benchmarks must upload their reproducible solutions in the .py format (python script) [here](https://www.dropbox.com/request/i4HUVdwQWTSUtfUEJndV)
+- Till March 17th, those who managed to beat all benchmarks must upload their reproducible solutions in the .py format (python script) [here](https://www.dropbox.com/request/i4HUVdwQWTSUtfUEJndV), more details are provided in [this post](https://opendatascience.slack.com/archives/C39147V60/p1551744009070400) (dated March 5th) in the #mlcourse_ai_news channel
 - The results of the competition and the final course rating will be published on 2019 April 26th.
 
 ## Scoring rules for competitions (Alice & Medium):
