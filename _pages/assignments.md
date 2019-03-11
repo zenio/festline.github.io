@@ -16,6 +16,10 @@ image:
     - Part 1. User Identification with Logistic Regression (beating baselines in the "Alice" competition), [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part1_alice_logistic_regression.ipynb?flush_cache=true). Deadline: **March 10, 20:59 GMT**
     - Part 2. Predicting Medium articles popularity with Ridge Regression (beating baselines in the "Medium" competition), [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_spring2019/assignment2_part2_medium_beat_baselines.ipynb?flush_cache=true). Deadline: **March 10, 20:59 GMT**
     - providing reproducible solutions (if at least one baseline is beaten) - see [roadmap](roadmap). Deadline: **March 17, 20:59 GMT**
+3. Decision trees, Random Forest, and gradient boosting. Deadline: **March 31, 20:59 GMT**
+    - Part 1. "Decision trees for classification and regression", [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_spring2019/assignment3_part1_decision_trees.ipynb?flush_cache=true)
+    - Part 2. "Random Forest and Logistic Regression in credit scoring and movie reviews classification", [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/assignments_spring2019/assignment3_part2_rf_logit_scoring_texts.ipynb?flush_cache=true)
+    - Part 3. "Flight delays" competition, [Kernel](https://www.kaggle.com/kashnitsky/mlcourse-ai-assignment-3-starter) starter
 
 ### Demo assignments, just for practice:
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset), [solution](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset-solution)
