@@ -5,8 +5,8 @@
   excerpt       : "Main content"
   image         : ods-stickers-teaser.jpg
 
-- title         : "Video"
-  url           : /video
+- title         : "Lectures"
+  url           : /lectures
   excerpt       : "Video recording of fall 2018 lectures"
   image         :  teaser-video.jpg
 

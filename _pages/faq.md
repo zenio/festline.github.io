@@ -42,7 +42,7 @@ You can do it just in a browser with [this Kaggle Dataset](https://www.kaggle.co
 
 **Will there be new video lectures?**
 
-Check out [mlcourse.ai/video](video), only few will be added.
+Check out [mlcourse.ai/lectures](lectures), only few will be added.
 
 **Can I join the course on the go?**
 
@@ -54,4 +54,4 @@ No. Real knowledge and skills are much more important.
 
 **Can I at least prove that I've done a good job?**
 
-Yes, if you finish in top-100 accoring to the final course rating. Your name will be [immortalized](rating).
+Yes, if you finish in top-100 according to the final course rating. Your name will be [immortalized](rating).

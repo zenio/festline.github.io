@@ -16,10 +16,10 @@ The next (and final) session launches on **September 2, 2019.** Fill in [this fo
  
  **Navigating this site:**
  - on this page, you'll find the main course content, see icons below
- - [video](video) - video recordings of fall 2018 lectures 
+ - [lectures](lectures) - video recordings of fall 2018 lectures 
  - [prerequisites](prerequisites) - what you need to join this course
  - [roadmap](roadmap) - plan for the ongoing course session
- - [assignments](assignments) - links to ccurrent assignments and demo version for practice
+ - [assignments](assignments) - links to current assignments and demo version for practice
  - [tutorials](tutorials) - tutorials written be course participants
  - [resources](resources) - a list of all materials constituting the course
  - [rating](rating) - current rating and top-performers of previous sessions

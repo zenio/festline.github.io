@@ -36,9 +36,8 @@ Assignments are announced in the **#mlcourse_ai** channel in [ODS Slack team](ht
  - A2. Beating baselines in Alice & Medium competitions
  - A3. Decision trees, random forest, and gradient boosting. Beating baseline in  the “flight delays” competition
  - A4. Time series analysis with Python
- - A5. Vowpal Wabbit
  
-If stuck with assignments, check course [video lectures](video).
+If stuck with assignments, check course [video lectures](lectures).
 
 # Kaggle Inclass Competition "Alice"
 
