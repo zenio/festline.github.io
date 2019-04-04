@@ -17,7 +17,7 @@ All activities accounted for in spring 2019 [rating](https://drive.google.com/op
 - Assignments
 - Kaggle Inclass Competition "Alice"
 - Kaggle Inclass Competition "Medium"
-- 2 more Kaggle competitions
+- Kaggle Inclass Competition “DOTA 2 winner prediction”
 - Tutorials
 
 # Calendar and deadlines
@@ -27,7 +27,12 @@ Current deadlines (see also the [assignments](assignments) page):
  - February 24 - A1
  - March 10 - A2
  - March 17 - uploading solutions to Alice & Medium 
-
+ - Macrh 31 - A3
+ - April 7 - A4
+ - April 21 - DOTA 2 competition
+ - April 22 - publishing tutorials
+ - April 23 - uploading solutions to DOTA 2
+ 
 All deadlines are 20:59 UTC. 
 
 # Assignments
@@ -69,7 +74,7 @@ In the [1st competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-d
 
 [Kaggle Inclass](https://www.kaggle.com/c/how-good-is-your-medium-article/). Here you are proposed to predict popularity (number of claps) of an article on Medium.com. Rules are the same as for "Alice" competition, only the webform for uploading solutions .py files is [different](https://www.dropbox.com/request/0iLhMirOekk2QV98Mj2B).
 
-# Kaggle Inclass Competition "DotA 2 winner prediction"
+# Kaggle Inclass Competition "DOTA 2 winner prediction"
 In the 3rd [competition](https://www.kaggle.com/c/mlcourse-dota2-win-prediction) you are going to utilize all knowledge and skills acquired during the course session. 
 
 ## Rules:
@@ -77,7 +82,7 @@ In the 3rd [competition](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
  - Teams up to 4 people are allowed.
  - The results of the competition and the final course rating will be published on 2019 April 26th.
  
- ## Credits
+## Credits
  Grading is as close as possible to "real" Kaggle competitions, each team member gets the specified amount of credit
    - 1 place – 80 credits
    - 2 place – 60 credits
