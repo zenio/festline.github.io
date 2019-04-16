@@ -78,7 +78,7 @@ In the [1st competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-d
 In the 3rd [competition](https://www.kaggle.com/c/mlcourse-dota2-win-prediction) you are going to utilize all knowledge and skills acquired during the course session. 
 
 ## Rules:
- - Deadline for submissions: 2019 April 21st
+ - Deadline for submissions: **2019 April 21st, 20:59 UTC**
  - Teams up to 4 people are allowed.
  - The results of the competition and the final course rating will be published on 2019 April 26th.
  
@@ -93,7 +93,7 @@ In the 3rd [competition](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
    
 ## Other bonuses in the Dota 2 competition
  - 5 most upvoted [Kernels](https://www.kaggle.com/c/mlcourse-dota2-win-prediction/kernels) will be awarded from 10 to 20 credits
- - 5 most active [Discussions] participants will be awarded from 5 to 15 credits, yes, it will be totally subjective
+ - 5 most active [Discussions](https://www.kaggle.com/c/mlcourse-dota2-win-prediction/discussion) participants will be awarded from 5 to 15 credits, yes, it will be totally subjective
 
 # Tutorials 
 
