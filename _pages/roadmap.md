@@ -80,6 +80,7 @@ In the 3rd [competition](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
 ## Rules:
  - Deadline for submissions: **2019 April 21st, 20:59 UTC**
  - Teams up to 4 people are allowed.
+ - Instructions on team naming and uploading your solutions are given in [this post](https://www.kaggle.com/c/mlcourse-dota2-win-prediction/discussion/89707) on Kaggle
  - The results of the competition and the final course rating will be published on 2019 April 26th.
  
 ## Credits
