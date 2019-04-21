@@ -30,8 +30,8 @@ Current deadlines (see also the [assignments](assignments) page):
  - Macrh 31 - A3
  - April 7 - A4
  - April 21 - DOTA 2 competition
- - April 22 - publishing tutorials
  - April 23 - uploading solutions to DOTA 2
+ - April 24 - publishing tutorials
  
 All deadlines are 20:59 UTC. 
 
@@ -107,7 +107,7 @@ We propose to write and publish a tutorial on any ML/DS-related topic which is n
 - The prerequisite for reading your tutorial should be basic ML as taught in [mlcourse.ai](https://mlcourse.ai). Do not write in-depth articles about neural nets, probabilistic programming, Bayesian approach, reinforcement learning etc. - topics like these need a thorough approach. That is, sure, you can write articles like that, but not in the format of [mlcourse.ai](https://mlcourse.ai) tutorials. On the other hand, it's hardly worth making a tutorial too simple (e.g., to pick some library and demonstrate only a couple of methods from it)
 - A typical tutorial shall be 30-60 minutes to read and digest (however, here exceptions are possible) 
 - Check out these lists of published tutorials from previous runs of this course: [English](tutorials), [Russian](https://github.com/Yorko/mlcourse.ai/wiki/Individual-projects-and-tutorials-(in-Russian)) . Yes, the second list is in Russian but still Google Translate can kind of give you an insight into the topics that are already covered. For those who already passed the course: definitely, translating somebody else's (or your own) tutorial into English is not going to work
-- Tutorial submission is due on 2019 April 22nd
+- Tutorial submission is due on 2019 April 24
 
 ## How to publish a tutorial
 
