@@ -10,19 +10,19 @@ image:
 
 <img src='../images/teaser-video.jpg'>
 
-This is a [YouTube playlist](https://bit.ly/2zY6Xe2) with fall 2018 video lectures. Almost no new ones are planned in 2019, the course gets more competition-focused. 
+This [YouTube playlist](https://bit.ly/2zY6Xe2) contains fall 2018 video lectures. A couple more recordings will be added in fall 2019 session. 
 
-Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2NuadRV)
+**Introduction** - [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2NuadRV)
 
-1. Exploratory data analysis with Pandas, [video](https://youtu.be/fwWCw_cE5aI) 
-2. Visualization, main plots for EDA, [video](https://www.youtube.com/watch?v=WNoQTNOME5g) 
-3. Decision trees: [theory](https://youtu.be/H4XlBTPv5rQ) and [practical part](https://youtu.be/RrVYO6Td9Js) 	
-4. Logistic regression: [theoretical foundations](https://www.youtube.com/watch?v=l3jiw-N544s), [practical part](https://www.youtube.com/watch?v=7o0SWgY89i8) (baselines in the "Alice" competition)
-5. Ensembles and Random Forest, [part 1](https://www.youtube.com/watch?v=neXJL-AqI_c). Classification metrics - [part 2](https://www.youtube.com/watch?v=aBOMYqGUlWQ). Example of a business task, predicting a customer payment - [part 3](https://www.youtube.com/watch?v=FmKU-1LZGoE)  
+1. Exploratory data analysis with Pandas - [video](https://youtu.be/fwWCw_cE5aI) 
+2. Visualization, main plots for EDA - [video](https://www.youtube.com/watch?v=WNoQTNOME5g) 
+3. Decision trees - [theory](https://youtu.be/H4XlBTPv5rQ) and [practical part](https://youtu.be/RrVYO6Td9Js) 	
+4. Logistic regression - [theoretical foundations](https://www.youtube.com/watch?v=l3jiw-N544s), [practical part](https://www.youtube.com/watch?v=7o0SWgY89i8) (baselines in the "Alice" competition)
+5. Ensembles and Random Forest - [part 1](https://www.youtube.com/watch?v=neXJL-AqI_c). Classification metrics - [part 2](https://www.youtube.com/watch?v=aBOMYqGUlWQ). Example of a business task, predicting a customer payment - [part 3](https://www.youtube.com/watch?v=FmKU-1LZGoE)  
 6. Linear regression and regularization - [theory](https://youtu.be/ne-MfRfYs_c), LASSO & Ridge, LTV prediction - [practice](https://youtu.be/B8yIaIEMyIc)
 7. Unsupervised learning - [Principal Component Analysis](https://youtu.be/-AswHf7h0I4) and [Clustering](https://youtu.be/eVplCo-w4XE)
 8. Stochastic Gradient Descent for classification and regression - [part 1](https://youtu.be/EUSXbdzaQE8), part 2 TBA
 9. Time series analysis with Python (ARIMA, Prophet) - [video](https://youtu.be/_9lBwXnbOd8)
 10. Gradient boosting: basic ideas - [part 1](https://youtu.be/g0ZOtzZqdqk), key ideas behind Xgboost, LightGBM, and CatBoost + practice - [part 2](https://youtu.be/V5158Oug4W8)
 
-Outroduction, [video](https://youtu.be/FrIW8ixKakw), [slides](https://bit.ly/2s0sjD7)
+**Outroduction** - [video](https://youtu.be/FrIW8ixKakw), [slides](https://bit.ly/2s0sjD7)
