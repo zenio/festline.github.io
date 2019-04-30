@@ -27,13 +27,13 @@ We have prepared a [Docker image](https://cloud.docker.com/u/festline/repository
 
 You may want to use this image (recommended). Otherwise [Anaconda 3](https://www.anaconda.com/download/) distribution is the best option (it contains latest Python with `NumPy`, `Pandas`, `Sklearn`, `Jupyter` and lots of other libraries). However, some other packages are also used – `Xgboost` and/or `LightGBM` and/or `CatBoost` and `Vowpal Wabbit` to name a few. In addition, `graphviz` library must be installed. Installing some of them on Windows might be painful.
 
-To summirize, you've got several alternatives to set up your learning environment:
+To summurize, you've got several alternatives to set up your learning environment:
  - Kaggle Kernels & Azure ML
  - Pip & Anaconda
  - Docker
 
 ### Kaggle Kernels & Azure ML
-The easiest way to start working with course materials (no local sotware installation) is to visit Kaggle Dataset [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse) and fork some Kernels (please keep them private). All your Jupyter notebooks with Anaconda are live and running in your browser. Almost all needed datasets are there as well. However, uploading other datasets might be tiresome. 
+The easiest way to start working with course materials (no local software installation) is to visit Kaggle Dataset [mlcourse.ai](https://www.kaggle.com/kashnitsky/mlcourse) and fork some Kernels (please keep them private). All your Jupyter notebooks with Anaconda are live and running in your browser. Almost all needed datasets are there as well. However, uploading other datasets might be tiresome. 
 
 ### Pip & Anaconda
 Most python packages like `NumPy`, `Pandas` or  `Sklearn` can be installed manually with `pip` – python installer. However, the preferred option is to use Anaconda. Additionally, you'll need `Xgboost`, `Vowpal Wabbit` and (maybe) `LightGBM` and `CatBoost` for competitions. 
