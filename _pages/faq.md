@@ -12,11 +12,11 @@ image:
 
 **How do I register for the course?**
 
-Wait for an announcement on the main page. There'll be a registration form as well. Currently two more sessions are planned: spring and fall 2019.
+See announcement on the main page, there's a registration form. Currently one more session is planned in fall 2019.
 
 **How do I join Slack community?**
 
-If you register for the course, you'll be invited prior to the course start. Check carefully your email address, and then your spam folder. You'll be able to join [https://opendatascience.slack.com](https://opendatascience.slack.com).
+If you register for the course, you'll be invited prior to the course start. Check carefully your email address.
 
 **I've filled in the form, still no invitations and confirmations**
 
