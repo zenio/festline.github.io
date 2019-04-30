@@ -30,7 +30,7 @@ No, you are by default accepted. The course is open for everyone.
 
  - Check spam folder
  - Anyway, try to log in to [https://opendatascience.slack.com](https://opendatascience.slack.com)
- - Lastly, try to fill in the intro form (mentioned on the [main page](https://mlcourse.ai/)) with a diferent e-mail address
+ - Lastly, try to fill in the intro form (mentioned on the [main page](https://mlcourse.ai/)) with a different e-mail address
 
 **How do I prepare for the course?**
 
