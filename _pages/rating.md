@@ -25,7 +25,7 @@ According to the [final rating](https://drive.google.com/open?id=1LAy1eK8vIONzIW
 1. Nikita Rubinkovskiy, [GitHub](http://github.com/Fissium/), [LinkedIn](https://www.linkedin.com/in/rubinkovskiy/), [email](mailto:NARubinkovskiy@gmail.com)
 1. Andreas Kouzelis, [GitHub](http://github.com/kuzand/), [LinkedIn](https://www.linkedin.com/in/kuzand/), [email](mailto:kuzand@hotmail.com)
 1. Vadim Shestopalov, [LinkedIn](https://www.linkedin.com/in/vadim-shestopalov/), [email](mailto:vdmshestopalov@gmail.com)
-1. Shokhan Birlikov
+1. Shokhan Birlikov, [LinkedIn](https://www.linkedin.com/in/birlikov/) , [email](mailto:birlikoff@gmail.com)
 1. Mikhail Tribunskiy, [GitHub](https://github.com/MiTribunskiy/), [LinkedIn](https://www.linkedin.com/in/tribunskiy/), [email](mailto:mitribunskiy@gmail.com)
 1. Ivan Zaikin, [GitHub](https://github.com/utapyngo/), [email](mailto:ut@pyngo.tom.ru)
 1. Alexey Serov, [GitHub](https://github.com/AlexS90), [email](mailto:ayiserov@gmail.com)
