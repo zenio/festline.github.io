@@ -10,8 +10,110 @@ image:
 
 <img src='../images/teaser-rating.jpg'>
 
-## Current spring 2019 rating
-[Rating](https://drive.google.com/open?id=1LAy1eK8vIONzIWgcCEaVmhKPSj579zK5lrECf_tQT60)
+## Top-100 performers of the 5-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience, spring 2019
+
+According to the [final rating](https://drive.google.com/open?id=1LAy1eK8vIONzIWgcCEaVmhKPSj579zK5lrECf_tQT60). The session took place from February 6 till April 26, 2019, there were about 1600 participants.
+
+1. Vladimir Sapachev, [GitHub](https://github.com/N0rdream), [email](mailto:vsapachev@gmail.com)
+1. Tarasov Sergey, [GitHub](https://github.com/RiSearcher), [LinkedIn](https://www.linkedin.com/in/sergej-tarasov-8b7716131/), [email](mailto:tarasov@pmi.lv)
+1. Vlad Kisin, [GitHub](https://github.com/vladkisin), [email](mailto:vladkisin1996@gmail.com), [LinkedIn](https://www.linkedin.com/in/vladislav-kisin-6a5785173/)
+1. Andrei Konshin, [GitHub](https://github.com/akenshin), [email](andreikonshin@gmail.com), [LinkedIn](https://www.linkedin.com/in/andrei-konshin-313304b0/)
+1. Wayde Herman, [GitHub](https://github.com/WaydeHerman), [LinkedIn](https://www.linkedin.com/in/wayde-herman-10986685/), [email](mailto:wayde.h@gmail.com)
+1. Korepanov Alexey,  [GitHub](https://github.com/grazder),  [LinkedIn](http://linkedin.com/in/grazder), [email](mailto:grazder@yandex.ru)
+1. Meynardo Jose
+1. Ustinov Dmitry, [GitHub](https://github.com/dm1tryx),  [LinkedIn](https://www.linkedin.com/in/dmitry-ustinov/),  [email](mailto:ust.dmit@gmail.com)
+1. Nikita Rubinkovskiy, [GitHub](http://github.com/Fissium/), [LinkedIn](https://www.linkedin.com/in/rubinkovskiy/), [email](mailto:NARubinkovskiy@gmail.com)
+1. Andreas Kouzelis, [GitHub](http://github.com/kuzand/), [LinkedIn](https://www.linkedin.com/in/kuzand/), [email](mailto:kuzand@hotmail.com)
+1. Vadim Shestopalov, [LinkedIn](https://www.linkedin.com/in/vadim-shestopalov/), [email](mailto:vdmshestopalov@gmail.com)
+1. Shokhan Birlikov
+1. Mikhail Tribunskiy, [GitHub](https://github.com/MiTribunskiy/), [LinkedIn](https://www.linkedin.com/in/tribunskiy/), [email](mailto:mitribunskiy@gmail.com)
+1. Ivan Zaikin, [GitHub](https://github.com/utapyngo/), [email](mailto:ut@pyngo.tom.ru)
+1. Alexey Serov, [GitHub](https://github.com/AlexS90), [email](mailto:ayiserov@gmail.com)
+1. Thomas Chambon, [GitHub](https://github.com/tchambon), [LinkedIn](https://www.linkedin.com/in/thomas-chambon-0a648664/)
+1. Dmitry Vladimirov, [GitHub](https://github.com/Dmitry513), [LinkedIn](https://www.linkedin.com/in/dmitry-vladimirov-9a704913b/),  [email](mailto:vladimirov.dm513@yandex.ru)
+1. Gennady Laptev
+1. Vladimir Kozlov, [email](mailto:kozlowladimir@gmail.com)
+1. Mikhail Efimov, [LinkedIn](https://www.linkedin.com/in/mikhail-efimov/), [email](mikhail.m.efimov@gmail.com)
+1. Alexander Lyubich, [LinkedIn](https://www.linkedin.com/in/alexander-lyubich-8b6215174/), [email](mailto:avlyubich@gmail.com)
+1. Roman Volykhin, [GitHub](https://github.com/GerrBert), [email](roman.volykhin@gmail.com)
+1. Maxim Golovatchev, [email](maximgolovatchev@gmail.com), [LinkedIn](https://www.linkedin.com/in/maxim-golovatchev-94229912a/)
+1. Mikhail Slivin,  [GitHub](https://github.com/spknnk/), [LinkedIn](https://www.linkedin.com/in/spknnk/) , [email](mailto:spknnk@gmail.com)
+1. Alexander Vasin, [GitHub](https://github.com/vad4msiu), [LinkedIn](https://www.linkedin.com/in/vad4msiu/), [email](mailto:vad4msiu@gmail.com)
+1. Sergei Samsonov
+1. Shivam Panwar, [GitHub](https://github.com/shivampanwar), [LinkedIn](https://www.linkedin.com/in/shivam-panwar-284989101/), [email](mailto:panwar.shivam199@gmail.com) 
+1. Petr Kungurtsev, [GitHub](https://github.com/Corwinpro), [email](mailto:corwinat@gmail.com) [website](http://petrkungurtsev.me) 
+1. Alexey Smirnov, [LinkedIn](https://www.linkedin.com/in/alexey-smirnov-611b621/), [email](mailto:alexey.i.smirnoff@gmail.com)
+1. Dmitry Gluzdov, [GitHub](https://github.com/DIVIGL1), [LinkedIn](https://www.linkedin.com/in/dmitry-gluzdov-766b8b185/), [email](mailto:dmitry@gluzdov.ru)
+1. Peter Fournier
+1. Dmitry Tsarev, [LinkedIn](https://www.linkedin.com/in/dmitry-tsarev88/), [email](tsarspb@gmail.com)
+1. Shravan Kumar Koninti, [GitHub](https://github.com/shravankoninti), [LinkedIn](https://www.linkedin.com/in/shravankoninti/), [email](mailto:shravankumar224@gmail.com)
+1. Dmitry Burdeiny, [email](mailto:dmitry.burdeiny@gmail.com)
+1. Pavel Gusev, [email](mailto:pavelgsv@gmail.com)
+1. Alena Arykina
+1. Evgeniy Chukanov
+1. Aptha K S, [Github](https://github.com/apthagowda97), [LinkedIn](https://www.linkedin.com/in/apthaks/), [email](mailto:iamuraptha@gmail.com)
+1. Rajasekhar Battula, [GitHub](https://github.com/rjs417), [LinkedIn](https://www.linkedin.com/in/rajasekhar-battula-99673b49/), [email](mailto:rajasekhar.battula@yahoo.in)
+1. Rohit Gupta, [GitHub](https://github.com/rohitgr7/), [LinkedIn](https://www.linkedin.com/in/rohitgr7/), [email](mailto:rohitgr1998@gmail.com), [website](https://rohitgr7.github.io/)
+1. Alexey Zapolskii , [GitHub](https://github.com/AlexZapolskii/), [LinkedIn](https://www.linkedin.com/in/алексей-запольский-90a259162/), [email](mailto:th1rt3n@yandex.ru)
+1. Veronika Shilova, [GitHub](https://github.com/VeronikaShilova), [email](mailto:shilova_veronika@inbox.ru)
+1. Armand Kulsh, [GitHub](https://github.com/Gogen120), [email](mailto:zenars85@mail.ru), [LinkedIn](https://www.linkedin.com/in/armand-kulsh-765901184/),
+1. Anton Pekarskii, [email](mailto:deep_wizard@yahoo.com), [LinkedIn](https://www.linkedin.com/in/antonpekarskii/)
+1. Mihail Parushkin, [email](mailto:mihail.parushkin@yandex.ru)
+1. Artem Tregubenko, [GitHub](https://github.com/artitre), [email](mailto:tregubenkoart@gmail.com)
+1. Oleg Chugalinsky, [email](mailto:chugalinsky@mail.ru)
+1. Sergei Tsurkan
+1. Gleb Krapivin, [LinkedIn](https://www.linkedin.com/in/gleb-krapivin-aa6812114/), [email](mailto:gleb.krapivin@gmail.com)
+1. Uladzimir Zbanok, [email](mailto:uzbanok@gmail.com)
+1. Vladimir Bolotin, [LinkedIn](https://www.linkedin.com/in/vladimir-bolotin-45360a1a/), [email](mailto:momun@mail.ru)
+1. Hakan Ozler, [GitHub](https://github.com/ozlerhakan), [LinkedIn](https://www.linkedin.com/in/ozlerhakan/), [email](mailto:ozler.hakan@gmail.com)
+1. Nikolay Kudinov, [GitHub](https://github.com/nkudinov), [email](mailto:oracle_developer@mail.ru), [LinkedIn](https://www.linkedin.com/in/nikolay-kudinov-9aaa697/)
+1. Andrei Lomov, [email](mailto:muhortova58@gmail.com)
+1. Anton Zavyalov
+1. Alexandr Drozhzhin, [GitHub](https://github.com/jastfake), [LinkedIn](https://www.linkedin.com/in/alexandr-drozhzhin-916482103), [email](mailto:drozhzhinalex@gmail.com)
+1. Vyacheslav Koloskov, [email](mailto:slivka_83@mail.ru)
+1. Kirill Stroganov, [email](mailto:kiraplenkin@gmail.com), [GitHub](https://github.com/kiraplenkin)
+1. Nick Bienko, [GitHub](https://github.com/bikolya/), [LinkedIn](https://www.linkedin.com/in/bikolya/)
+1. Mikhail Yuldashev
+1. Olya Yakushewa, [LinkedIn](https://www.linkedin.cn/in/olga-yakushewa-018006186)
+1. Sita Krishnakumar, [GitHub](http://github.com/sitask/), [LinkedIn](https://www.linkedin.com/in/sitask/), [email](mailto:sita.krishnakumar@gmail.com)
+1. Andres Tiko, [LinkedIn](https://www.linkedin.com/in/tiko)
+1. Artem Ryblov
+1. Viktor Nikolaev, [email](mailto:viktor_andreevich@outlook.com), [LinkedIn](www.linkedin.com/in/ViktorAndreevich)
+1. Alexander Bunyatov
+1. Maxim Yurchenko, [GitHub](https://github.com/mv-yurchenko/), [PersonalSite](https://mv-yurchenko.github.io), [email](maxonus2@gmail.com)
+1. Irina Telina
+1. Pavel Peskov, [GitHub](http://github.com/pchlq/), [twitter](https://www.twitter.com/Pchlq/), [email](mailto:peskovps@gmail.com), [LinkedIn](https://www.linkedin.com/in/pavel-peskov-8673a76/)
+1. Alexander Chernyshov, [GitHub](https://github.com/alexbolduin), [email](mailto:achernys123@gmail.com)
+1. Bruyako Maksim
+1. Chavalapalli Varun
+1. Pavel Nikalayeu, [LinkedIn](https://www.linkedin.com/in/pavelnikalayeu/), [email](mailto:pavel.nikalayeu@zoho.com)
+1. Andrey Goldin
+1. Aman Berry
+1. Vladislav Golubtsov
+1. Siarhei Kulaha
+1. Aleksei Barykin, [LinkedIn](http://www.linkedin.com/in/aleksei-barykin-a5b76797),    [email](mailto:aleksei.bary@gmail.com)
+1. Kostiantyn Shysh
+1. Aleksey Morozov, [GitHub](https://github.com/am0r0z0v), [LinkedIn](https://www.linkedin.com/in/ao-morozov/), [email](mailto:a_m0r0z0v@mail.ru)
+1. Ana-Maria Hristian, [LinkedIn](www.linkedin.com/in/ana-hristian), [email](mailto:parr.ana.maria@gmail.com), [GitHub](https://github.com/AnaHristian)
+1. Dmitrii Vasilev, [GitHub](https://github.com/dmitriykel/), [CV](https://resume.io/r/kOvC2rs9O), [email](mailto:dmitriykehl@gmail.com), [Telegram](https://t.me/dmitriykel)
+1. Vasily Suvorov, [emal](mailto:avalanche.v@gmail.com), [facebook](https://www.facebook.com/vasiliy.suvorov)
+1. Volodymyr Bakhur, [LinkedIn](https://www.linkedin.com/in/vbakhur/), [email](mailto:volodyabakhur@gmail.com)
+1. Ramis Imilbaev, [LinkedIn](www.linkedin.com/in/imilbaev), [email](mailto:fordsmail@ya.ru)
+1. Denis Finogenov, [GitHub](github.com/denisfin), [email](denis.finogenov.ml@gmail.com)
+1. Bohdan Dolishnii, [GitHub](https://github.com/SENSBoD), [LinkedIn](https://www.linkedin.com/in/bohdan-dolishnii/), [email](dolishniibohdan@gmail.com)
+1. Ekaterina Krivtsova
+1. Dmitry Saponov, [Github](https://github.com/DSaponov), [Linkedin](https://www.linkedin.com/in/dmitry-saponov-b5a42450/ ), [email](dsaponov1@yandex.ru )
+1. Olga Braginskaya
+1. Igor Babikov, [GitHub](https://github.com/sharkzeeh) [LinkedIn](https://www.linkedin.com/in/igor-babikov-031b7b150/), [email](mailto:igorbabikov24@gmail.com)
+1. Aleynikov Sergey, [GitHub](https://github.com/AleynikovSergey), [email](aleynikov.sergey.a@gmail.com)
+1. Matthias Seghers
+1. Borislav Breusenko, [email](mailto:bbreusenko@gmail.com), [Linkedin](https://www.linkedin.com/in/borislav-breusenko-85727a146/ )
+1. Mikhail Sheleh, [Github](https://github.com/lordofprograms), [Linkedin](https://www.linkedin.com/in/msheleh/), [email](mailto:shelegmike@gmail.com)
+1. Anthony Sazonov, [GitHub](https://github.com/Jericho-kd), [email](mailto:ant-sazon@yandex.ru)
+1. Omar Idres Gurashi, [LinkedIn](https://www.linkedin.com/in/omar-idres-gurashi-5b45a9144/), [email](mailto:omargurashi1@gmail.com)
+1. Henry Yang, [LinkedIn](https://www.linkedin.com/in/yile-yang/), [email](mailto:yyl.henry@gmail.com)
+1. Maxim Seregin, [email](mailto:horanzon@gmail.com)
+1. Alexander Tretyak
 
 ## Top-100 performers of the 4-th session of [mlcourse.ai](http://mlcourse.ai) by OpenDataScience, fall 2018
 

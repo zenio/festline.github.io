@@ -12,7 +12,7 @@ image:
 
 **How do I register for the course?**
 
-See announcement on the main page, there's a registration form. Currently one more session is planned in fall 2019.
+There's no formal registration for the course. Everybody is by default accepted and will be found in the course rating as long as submits web-forms for assignments. But it's easier to keep track of everything if you're in ODS Slack, so you'd better fill in the introductory form mentioned in the main page.
 
 **How do I join Slack community?**
 
